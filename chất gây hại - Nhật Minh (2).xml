@@ -1,0 +1,2499 @@
+<?xml version='1.0' encoding='UTF-8' ?><!--
+Created by Alight Motion (http://alightmotion.com)
+Exported: 2026-01-29 07:59 AM
+5.0.271.1002592 (1002592)
+a34a6c0 (7 thg 10, 2024 17:17:29)
+-->
+<scene title="chất gây hại - Nhật Minh" width="1440" height="1080" exportWidth="1440" exportHeight="1080" precompose="dynamicResolution" bgcolor="#ff000000" totalTime="40565" fps="60" modifiedTime="1769648374961" amver="1002592" ffver="106" am="com.alightcreative.motion/5.0.271.1002592" amplatform="android" retime="freeze" retimeAdaptFPS="false">
+  <media uri="content://media/external/images/media/1000082462" filename="572598307_18083473010069733_6630582551578894340_n..jpg" title="572598307_18083473010069733_6630582551578894340_n..jpg" type="image/jpeg" size="95479" orientation="0" infoUpdated="1769647652691" width="640" height="853" />
+  <media uri="content://media/external/images/media/1000082483" type="image/jpeg" duration="0" orientation="0" infoUpdated="1769647652691" width="0" height="0" />
+  <media uri="content://media/external/images/media/1000082463" filename="565441317_18081335786069733_8580665358759385047_n..jpg" title="565441317_18081335786069733_8580665358759385047_n..jpg" type="image/jpeg" size="87572" orientation="0" infoUpdated="1769647652691" width="640" height="853" />
+  <media uri="content://media/external/images/media/1000082470" type="image/jpeg" duration="0" orientation="0" infoUpdated="1769647652691" width="0" height="0" />
+  <media uri="content://media/external/images/media/1000086490" filename="IMG_20260128_194117.png" title="IMG_20260128_194117.png" type="image/png" size="195492" orientation="0" infoUpdated="1769647652691" width="491" height="357" />
+  <media uri="content://media/external/images/media/1000083019" type="image/jpeg" duration="0" orientation="0" infoUpdated="1769647652691" width="0" height="0" />
+  <media uri="content://media/external/images/media/1000082477" type="image/jpeg" duration="0" orientation="0" infoUpdated="1769647652691" width="0" height="0" />
+  <media uri="content://media/external/images/media/1000082496" type="image/jpeg" duration="0" orientation="0" infoUpdated="1769647652691" width="0" height="0" />
+  <media uri="content://media/external/images/media/1000082490" type="image/jpeg" duration="0" orientation="0" infoUpdated="1769647652691" width="0" height="0" />
+  <media uri="content://media/external/video/media/1000086523" filename="chất gây hại - Nhật Minh [0E514DF].mp4" title="chất gây hại - Nhật Minh [0E514DF].mp4" type="video/mp4" duration="40550000" size="26698169" fps="0.30" orientation="0" infoUpdated="1769648357836" width="1440" height="1080" />
+  <bookmark t="3708" />
+  <bookmark t="7458" />
+  <bookmark t="11225" />
+  <bookmark t="16491" />
+  <bookmark t="21658" />
+  <bookmark t="25558" />
+  <bookmark t="32991" />
+  <bookmark t="7475" />
+  <bookmark t="5308" />
+  <bookmark t="9158" />
+  <bookmark t="11241" />
+  <bookmark t="13191" />
+  <bookmark t="14791" />
+  <bookmark t="15241" />
+  <bookmark t="15708" />
+  <bookmark t="18041" />
+  <bookmark t="18975" />
+  <bookmark t="18525" />
+  <bookmark t="23658" />
+  <bookmark t="21675" />
+  <bookmark t="25575" />
+  <bookmark t="27408" />
+  <bookmark t="29291" />
+  <bookmark t="31275" />
+  <bookmark t="33008" />
+  <bookmark t="29308" />
+  <bookmark t="25025" />
+  <bookmark t="36858" />
+  <bookmark t="36875" />
+  <bookmark t="34941" />
+  <shape id="40042496" label="Chữ nhật 1" startTime="0" endTime="4099" fillType="gradient" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="720.000000,540.000000,0.000000" />
+      <scale value="8.270000,6.202504" />
+    </transform>
+    <fillColor value="#ffc879e8" />
+    <gradient type="linear" startColor="#ffffffff" endColor="#ffffb2dc" start="0.517936,1.293184" end="0.522307,-0.122924" />
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="40042510" tag="+ruby" label="ảnh" startTime="1216" endTime="4099" fillType="media" fillImage="content://media/external/images/media/1000082462" mediaFillMode="fill" parent="40042501" s=".rect">
+    <transform>
+      <location value="293.191620,668.808105,0.000000" />
+      <scale>
+        <kf t="0.367326" v="0.839947,0.839947" e="elastic 0.4093666 1.0 0.15599316 0.18441176" />
+        <kf t="0.003122" v="-0.000992,-0.000992" />
+      </scale>
+      <rotation value="8.780487" />
+    </transform>
+    <effect id="com.alightcreative.effects.pulsate2" locallyApplied="true">
+      <property name="freq" type="float" value="2.000000" />
+      <property name="minsize" type="float" value="1.000000" />
+      <property name="maxsize" type="float" value="1.050000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="type" type="int" value="0" />
+    </effect>
+    <border direction="outside" id="1">
+      <size value="36.000000" />
+    </border>
+    <property name="size" type="vec2" value="405.000000,504.000000" />
+  </shape>
+  <text id="40042495" startTime="416" endTime="4099" fillType="color" mediaFillMode="fill" parent="40042501" size="96.000000" font="googlefonts?name=Sniglet&amp;weight=800" wrapWidth="1319" align="center">
+    <transform>
+      <location value="-212.900391,0.000000,0.000000" />
+      <pivot value="0.000000,121.000000" />
+      <scale>
+        <kf t="0.346186" v="1.000000,1.000000" e="elastic 0.33585846 1.0 0.0 0.2748741" />
+        <kf t="0.002172" v="0.000000,0.000000" />
+      </scale>
+      <rotation>
+        <kf t="0.346186" v="0.000000" e="elastic 0.33585846 1.0 0.0 0.2748741" />
+        <kf t="0.002172" v="45.000000" />
+      </rotation>
+    </transform>
+    <fillColor value="#ffff9dba" />
+    <border direction="outside" id="1">
+      <size value="37.000000" />
+    </border>
+    <content>B</content>
+  </text>
+  <text id="40042497" label="B Copy" startTime="483" endTime="4099" fillType="color" mediaFillMode="fill" parent="40042501" size="96.000000" font="googlefonts?name=Sniglet&amp;weight=800" wrapWidth="1319" align="center">
+    <transform>
+      <location value="-11.500000,0.000000,0.000000" />
+      <pivot value="0.000000,121.000000" />
+      <scale>
+        <kf t="0.352599" v="1.000000,1.000000" e="elastic 0.33585846 1.0 0.0 0.2748741" />
+        <kf t="0.002213" v="0.000000,0.000000" />
+      </scale>
+      <rotation>
+        <kf t="0.352599" v="0.000000" e="elastic 0.33585846 1.0 0.0 0.2748741" />
+        <kf t="0.002213" v="45.000000" />
+      </rotation>
+    </transform>
+    <fillColor value="#ffff9dba" />
+    <border direction="outside" id="1">
+      <size value="37.000000" />
+    </border>
+    <content>a</content>
+  </text>
+  <text id="40042498" label="B Copy 2" startTime="550" endTime="4099" fillType="color" mediaFillMode="fill" parent="40042501" size="96.000000" font="googlefonts?name=Sniglet&amp;weight=800" wrapWidth="1319" align="center">
+    <transform>
+      <location value="165.299805,-61.700195,0.000000" />
+      <pivot value="0.000000,121.000000" />
+      <scale>
+        <kf t="0.359257" v="1.000000,1.000000" e="elastic 0.33585846 1.0 0.0 0.2748741" />
+        <kf t="0.002254" v="0.000000,0.000000" />
+      </scale>
+      <rotation>
+        <kf t="0.359257" v="0.000000" e="elastic 0.33585846 1.0 0.0 0.2748741" />
+        <kf t="0.002254" v="45.000000" />
+      </rotation>
+    </transform>
+    <fillColor value="#ffff9dba" />
+    <border direction="outside" id="1">
+      <size value="37.000000" />
+    </border>
+    <content>b</content>
+  </text>
+  <text id="40042499" label="B Copy 3" startTime="616" endTime="4099" fillType="color" mediaFillMode="fill" parent="40042501" size="96.000000" font="googlefonts?name=Sniglet&amp;weight=800" wrapWidth="1319" align="center">
+    <transform>
+      <location value="345.299805,0.000000,0.000000" />
+      <pivot value="0.000000,121.000000" />
+      <scale>
+        <kf t="0.366065" v="1.000000,1.000000" e="elastic 0.33585846 1.0 0.0 0.2748741" />
+        <kf t="0.002297" v="0.000000,0.000000" />
+      </scale>
+      <rotation>
+        <kf t="0.366065" v="0.000000" e="elastic 0.33585846 1.0 0.0 0.2748741" />
+        <kf t="0.002297" v="45.000000" />
+      </rotation>
+    </transform>
+    <fillColor value="#ffff9dba" />
+    <border direction="outside" id="1">
+      <size value="37.000000" />
+    </border>
+    <content>y</content>
+  </text>
+  <text id="40042502" startTime="816" endTime="4099" fillType="color" mediaFillMode="fill" parent="40042501" size="96.000000" font="googlefonts?name=Sniglet&amp;weight=800" wrapWidth="1319" align="center">
+    <transform>
+      <location value="-497.969543,249.359009,0.000000" />
+      <pivot value="0.000000,121.000000" />
+      <scale>
+        <kf t="0.388364" v="1.000000,1.000000" e="elastic 0.33585846 1.0 0.0 0.2748741" />
+        <kf t="0.002436" v="0.000000,0.000000" />
+      </scale>
+      <rotation>
+        <kf t="0.388364" v="0.000000" e="elastic 0.33585846 1.0 0.0 0.2748741" />
+        <kf t="0.002436" v="45.000000" />
+      </rotation>
+    </transform>
+    <fillColor value="#ffff6894" />
+    <border direction="outside" id="1">
+      <size value="37.000000" />
+    </border>
+    <content>G</content>
+  </text>
+  <text id="40042503" label="B Copy" startTime="883" endTime="4099" fillType="color" mediaFillMode="fill" parent="40042501" size="96.000000" font="googlefonts?name=Sniglet&amp;weight=800" wrapWidth="1319" align="center">
+    <transform>
+      <location value="-333.322266,249.396729,0.000000" />
+      <pivot value="0.000000,121.000000" />
+      <scale>
+        <kf t="0.396455" v="1.000000,1.000000" e="elastic 0.33585846 1.0 0.0 0.2748741" />
+        <kf t="0.002487" v="0.000000,0.000000" />
+      </scale>
+      <rotation>
+        <kf t="0.396455" v="0.000000" e="elastic 0.33585846 1.0 0.0 0.2748741" />
+        <kf t="0.002487" v="45.000000" />
+      </rotation>
+    </transform>
+    <fillColor value="#ffff6894" />
+    <border direction="outside" id="1">
+      <size value="37.000000" />
+    </border>
+    <content>i</content>
+  </text>
+  <text id="40042504" label="B Copy 2" startTime="950" endTime="4099" fillType="color" mediaFillMode="fill" parent="40042501" size="96.000000" font="googlefonts?name=Sniglet&amp;weight=800" wrapWidth="1319" align="center">
+    <transform>
+      <location value="-202.258392,249.636810,0.000000" />
+      <pivot value="0.000000,121.000000" />
+      <scale>
+        <kf t="0.404890" v="1.000000,1.000000" e="elastic 0.33585846 1.0 0.0 0.2748741" />
+        <kf t="0.002541" v="0.000000,0.000000" />
+      </scale>
+      <rotation>
+        <kf t="0.404890" v="0.000000" e="elastic 0.33585846 1.0 0.0 0.2748741" />
+        <kf t="0.002541" v="45.000000" />
+      </rotation>
+    </transform>
+    <fillColor value="#ffff6894" />
+    <border direction="outside" id="1">
+      <size value="37.000000" />
+    </border>
+    <content>r</content>
+  </text>
+  <text id="40042505" label="B Copy 3" startTime="1016" endTime="4099" fillType="color" mediaFillMode="fill" parent="40042501" size="96.000000" font="googlefonts?name=Sniglet&amp;weight=800" wrapWidth="1319" align="center">
+    <transform>
+      <location value="-95.703148,252.376083,0.000000" />
+      <pivot value="0.000000,121.000000" />
+      <scale>
+        <kf t="0.413558" v="1.000000,1.000000" e="elastic 0.33585846 1.0 0.0 0.2748741" />
+        <kf t="0.002596" v="0.000000,0.000000" />
+      </scale>
+      <rotation>
+        <kf t="0.413558" v="0.000000" e="elastic 0.33585846 1.0 0.0 0.2748741" />
+        <kf t="0.002596" v="45.000000" />
+      </rotation>
+    </transform>
+    <fillColor value="#ffff6894" />
+    <border direction="outside" id="1">
+      <size value="37.000000" />
+    </border>
+    <content>l</content>
+  </text>
+  <nullobj id="40042501" label="Rỗng 1" startTime="400" endTime="4099" mediaFillMode="fill" parent="40042507" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.119221" v="96.000000,-117.299805,0.000000" />
+        <kf t="0.632874" v="-633.664185,-678.575378,0.000000" e="cubicBezier 0.42771575 0.0 0.35600072 1.0" />
+      </location>
+      <scale>
+        <kf t="0.236550" v="1.000000,1.000000" />
+        <kf t="0.632874" v="1.000000,1.000000" />
+      </scale>
+    </transform>
+  </nullobj>
+  <nullobj id="40042507" label="Rỗng 2" startTime="0" endTime="4099" mediaFillMode="fill" parent="40042509" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.001952" v="0.000000,0.000000,0.000000" />
+      </location>
+      <scale>
+        <kf t="0.095389" v="5.420000,5.420000" />
+        <kf t="0.697243" v="0.900000,0.900000" e="cubicBezier 0.14190476 0.9496882 0.0 1.0" />
+      </scale>
+    </transform>
+  </nullobj>
+  <nullobj id="40042509" label="Rỗng 3" startTime="0" endTime="4099" mediaFillMode="fill" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.453281" v="720.000000,540.000000,0.000000" />
+        <kf t="0.904611" v="1309.765137,463.311676,0.000000" e="cubicBezier 0.42 0.0 0.3302883 1.0" />
+      </location>
+    </transform>
+    <effect id="com.alightcreative.effects.swing2" locallyApplied="true">
+      <property name="freq" type="float" value="0.940000" />
+      <property name="a1" type="float" value="-2.600000" />
+      <property name="a2" type="float" value="2.600000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.pulsate2" locallyApplied="true">
+      <property name="freq" type="float" value="0.900000" />
+      <property name="minsize" type="float" value="0.930000" />
+      <property name="maxsize" type="float" value="1.100000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="type" type="int" value="0" />
+    </effect>
+  </nullobj>
+  <shape id="40042512" label="Chữ nhật 2" startTime="1766" endTime="4099" fillType="color" mediaFillMode="fill" parent="40042511" s=".rect">
+    <transform>
+      <location>
+        <kf t="0.003429" v="-69.811691,0.000000,0.000000" />
+        <kf t="0.439349" v="-218.161301,0.000000,0.000000" e="cubicBezier 0.42 0.0 0.58 1.0" />
+      </location>
+      <scale value="0.611709,0.611709" />
+      <rotation value="7.682927" />
+    </transform>
+    <property name="size" type="vec2" value="100.000000,330.000000" />
+  </shape>
+  <text id="40042511" startTime="1766" endTime="4099" fillType="color" mediaFillMode="fill" parent="40042501" size="36.000000" font="googlefonts?name=Sniglet&amp;weight=800" wrapWidth="512" align="left">
+    <transform>
+      <location>
+        <kf t="0.432062" v="1224.991943,783.954895,0.000000" e="cubicBezier 0.117206104 0.88361347 0.58 1.0" />
+        <kf t="0.003429" v="1792.714600,790.781067,0.000000" />
+      </location>
+      <scale value="1.816406,1.816406" />
+    </transform>
+    <fillColor value="#ff444444" />
+    <border direction="outside" id="1">
+      <size value="24.000000" />
+    </border>
+    <content>Em
+Ngot
+Hon</content>
+  </text>
+  <text id="40042513" label="Em&#10;Ngot&#10;Hon Copy" startTime="2533" endTime="4099" fillType="color" mediaFillMode="fill" parent="40042501" size="48.000000" font="googlefonts?name=Sniglet&amp;weight=800" wrapWidth="512" align="left">
+    <transform>
+      <location>
+        <kf t="0.643678" v="-253.343918,1225.157593,0.000000" e="cubicBezier 0.117206104 0.88361347 0.58 1.0" />
+        <kf t="0.005109" v="70.370453,1482.984741,0.000000" />
+      </location>
+      <scale value="1.816406,1.816406" />
+    </transform>
+    <fillColor value="#ff89450f" />
+    <border direction="outside" id="1">
+      <size value="24.000000" />
+    </border>
+    <content>Socola</content>
+  </text>
+  <shape id="40042514" label="Vòng tròn 1" startTime="2950" endTime="11232" fillType="color" mediaFillMode="fill" s=".circle">
+    <transform>
+      <location value="720.000000,540.000000,0.000000" />
+      <scale>
+        <kf t="0.001087" v="0.020000,0.020000" />
+        <kf t="0.095508" v="9.175000,9.175000" e="cubicBezier 0.0 0.0 0.58 1.0" />
+      </scale>
+    </transform>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="40042555" label="Chữ nhật 4" startTime="6983" endTime="9800" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="720.000000,540.000000,0.000000" />
+      <scale value="7.200000,5.400000" />
+    </transform>
+    <fillColor value="#ffffedcd" />
+    <property name="size" type="vec2">
+      <kf t="-0.002840" v="0.000000,100.000000" />
+      <kf t="0.458644" v="103.000000,100.000000" e="cubicBezier 0.42 0.0 0.58 1.0" />
+      <kf t="0.653887" v="103.000000,100.000000" />
+      <kf t="1.000000" v="0.000000,100.000000" e="cubicBezier 0.42 0.0 0.58 1.0" />
+    </property>
+  </shape>
+  <embedScene id="40042521" label="Nhóm 1" startTime="3850" endTime="7932" fillType="intrinsic" outTime="4082" mediaFillMode="fill" parent="40042523">
+    <transform>
+      <pivot value="-25.618774,-233.898438" />
+      <scale value="1.328854,1.328854" />
+      <opacity value="0.466797" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <effect id="com.alightcreative.effects.halftonedots" locallyApplied="true">
+      <property name="amount" type="float" value="119.700005" />
+      <property name="strength" type="float" value="0.304000" />
+      <property name="angle" type="float" value="45.000000" />
+      <property name="phase" type="float" value="0.500000" />
+      <property name="color1" type="color" value="#ff113355" />
+      <property name="color2" type="color" value="#ffffeedd" />
+    </effect>
+    <scene title="" width="1440" height="1080" exportWidth="1440" exportHeight="1080" precompose="dynamicResolution" bgcolor="#00000000" totalTime="3765" fps="60" modifiedTime="0" amver="1002592" ffver="106" am="com.alightcreative.motion/5.0.271.1002592" amplatform="android" retime="off" retimeAdaptFPS="false">
+      <shape id="40042516" label="Ô thoại 1" startTime="166" endTime="3765" fillType="color" mediaFillMode="fill" parent="40042518" s=".callout.roundrect">
+        <transform>
+          <location value="-6.959351,-338.166931,0.000000" />
+          <pivot value="-136.800766,167.276367" />
+          <scale>
+            <kf t="0.326480" v="1.058182,1.058182" e="elastic 0.3682059 1.0 0.28876305 0.28137326" />
+            <kf t="0.002223" v="0.000000,0.000000" />
+          </scale>
+        </transform>
+        <fillColor value="#ff242424" />
+        <property name="size" type="vec2" value="351.000000,86.000000" />
+        <property name="tail" type="vec2" value="-135.000000,169.000000" />
+        <property name="cornerRadius" type="float" value="56.000000" />
+        <property name="tailWidth" type="float" value="80.000000" />
+      </shape>
+      <text id="40042517" startTime="166" endTime="3765" fillType="color" mediaFillMode="fill" parent="40042516" size="18.000000" font="googlefonts?name=Roboto&amp;weight=900" wrapWidth="808" align="center">
+        <transform>
+          <location value="0.000000,-1.890957,0.000000" />
+          <scale value="0.945017,0.945017" />
+        </transform>
+        <effect id="com.alightcreative.effects.texttransform" locallyApplied="true">
+          <property name="start" type="float">
+            <kf t="0.000000" v="0.000000" />
+            <kf t="0.357383" v="0.755000" />
+          </property>
+          <property name="end" type="float" value="1.000000" />
+          <property name="phase" type="float">
+            <kf t="0.357383" v="0.000000" />
+            <kf t="0.558653" v="0.000000" />
+          </property>
+          <property name="component" type="int" value="1" />
+          <property name="anchor" type="int" value="1" />
+          <property name="angle" type="float" value="0.000000" />
+          <property name="scale" type="float" value="-1.000000" />
+          <property name="stretch" type="float" value="0.000000" />
+          <property name="alpha" type="float" value="-1.000000" />
+          <property name="useFillColor" type="bool" value="false" />
+          <property name="fillColor" type="color" value="#ff00ff00" />
+          <property name="easeIn" type="float" value="1.000000" />
+          <property name="easeOut" type="float" value="-1.000000" />
+          <property name="overlap" type="float" value="10.000000" />
+          <property name="shape" type="int" value="0" />
+          <property name="randomOrder" type="bool" value="false" />
+          <property name="seed" type="float" value="0.000000" />
+        </effect>
+        <content>Đôi Mi Khép Chạm Bờ Môi</content>
+      </text>
+      <shape id="40042519" label="Ô thoại 1 Copy" startTime="1350" endTime="3765" fillType="color" mediaFillMode="fill" parent="40042518" s=".callout.roundrect">
+        <transform>
+          <location value="307.179657,5.863342,0.000000" />
+          <pivot value="-136.800766,167.276367" />
+          <scale>
+            <kf t="0.486542" v="1.058182,1.058182" e="elastic 0.3682059 1.0 0.28876305 0.28137326" />
+            <kf t="0.003313" v="0.000000,0.000000" />
+          </scale>
+          <rotation value="-180.000000" />
+        </transform>
+        <fillColor value="#ff888888" />
+        <property name="size" type="vec2" value="389.000000,86.000000" />
+        <property name="tail" type="vec2" value="-135.000000,169.000000" />
+        <property name="cornerRadius" type="float" value="56.000000" />
+        <property name="tailWidth" type="float" value="80.000000" />
+      </shape>
+      <text id="40042520" label="Đôi Mi Khép Chạm Bờ Môi Copy" startTime="1350" endTime="3765" fillType="color" mediaFillMode="fill" parent="40042519" size="18.000000" font="googlefonts?name=Roboto&amp;weight=900" wrapWidth="808" align="center">
+        <transform>
+          <location value="0.000000,-1.890957,0.000000" />
+          <scale value="0.945017,0.945017" />
+        </transform>
+        <effect id="com.alightcreative.effects.texttransform" locallyApplied="true">
+          <property name="start" type="float">
+            <kf t="0.000000" v="0.000000" />
+            <kf t="0.532597" v="0.755000" />
+          </property>
+          <property name="end" type="float" value="1.000000" />
+          <property name="phase" type="float">
+            <kf t="0.532597" v="0.000000" />
+            <kf t="0.832543" v="0.000000" />
+          </property>
+          <property name="component" type="int" value="1" />
+          <property name="anchor" type="int" value="1" />
+          <property name="angle" type="float" value="0.000000" />
+          <property name="scale" type="float" value="-1.000000" />
+          <property name="stretch" type="float" value="0.000000" />
+          <property name="alpha" type="float" value="-1.000000" />
+          <property name="useFillColor" type="bool" value="false" />
+          <property name="fillColor" type="color" value="#ff00ff00" />
+          <property name="easeIn" type="float" value="1.000000" />
+          <property name="easeOut" type="float" value="-1.000000" />
+          <property name="overlap" type="float" value="10.000000" />
+          <property name="shape" type="int" value="0" />
+          <property name="randomOrder" type="bool" value="false" />
+          <property name="seed" type="float" value="0.000000" />
+        </effect>
+        <content>Chỉ vậy thôi anh muốn điên rồi</content>
+      </text>
+      <nullobj id="40042518" label="Rỗng 4" startTime="0" endTime="3765" mediaFillMode="fill" type="perspective">
+        <transform>
+          <location value="720.000000,540.000000,0.000000" />
+          <rotation>
+            <kf t="0.267729" v="0.000000" />
+            <kf t="0.670651" v="-180.000000" e="cubicBezier 0.6187165 0.0 0.39075333 1.0" />
+          </rotation>
+        </transform>
+      </nullobj>
+    </scene>
+  </embedScene>
+  <embedScene id="40042522" label="Nhóm 1 Copy" startTime="3700" endTime="7932" fillType="intrinsic" outTime="-2147483182" mediaFillMode="fill" parent="40042523">
+    <transform>
+      <pivot value="-25.618774,-233.898438" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <scene title="" width="1440" height="1080" exportWidth="1440" exportHeight="1080" precompose="dynamicResolution" bgcolor="#00000000" totalTime="3765" fps="60" modifiedTime="0" amver="1002592" ffver="106" am="com.alightcreative.motion/5.0.271.1002592" amplatform="android" retime="off" retimeAdaptFPS="false">
+      <shape id="40042516" label="Ô thoại 1" startTime="166" endTime="3765" fillType="color" mediaFillMode="fill" parent="40042518" s=".callout.roundrect">
+        <transform>
+          <location value="-6.959351,-338.166931,0.000000" />
+          <pivot value="-136.800766,167.276367" />
+          <scale>
+            <kf t="0.326480" v="1.058182,1.058182" e="elastic 0.3682059 1.0 0.28876305 0.28137326" />
+            <kf t="0.002223" v="0.000000,0.000000" />
+          </scale>
+        </transform>
+        <fillColor value="#ff242424" />
+        <property name="size" type="vec2" value="351.000000,86.000000" />
+        <property name="tail" type="vec2" value="-135.000000,169.000000" />
+        <property name="cornerRadius" type="float" value="56.000000" />
+        <property name="tailWidth" type="float" value="80.000000" />
+      </shape>
+      <text id="40042517" startTime="166" endTime="3765" fillType="color" mediaFillMode="fill" parent="40042516" size="18.000000" font="googlefonts?name=Roboto&amp;weight=900" wrapWidth="808" align="center">
+        <transform>
+          <location value="0.000000,-1.890957,0.000000" />
+          <scale value="0.945017,0.945017" />
+        </transform>
+        <effect id="com.alightcreative.effects.texttransform" locallyApplied="true">
+          <property name="start" type="float">
+            <kf t="0.000000" v="0.000000" />
+            <kf t="0.357383" v="0.755000" />
+          </property>
+          <property name="end" type="float" value="1.000000" />
+          <property name="phase" type="float">
+            <kf t="0.357383" v="0.000000" />
+            <kf t="0.558653" v="0.000000" />
+          </property>
+          <property name="component" type="int" value="1" />
+          <property name="anchor" type="int" value="1" />
+          <property name="angle" type="float" value="0.000000" />
+          <property name="scale" type="float" value="-1.000000" />
+          <property name="stretch" type="float" value="0.000000" />
+          <property name="alpha" type="float" value="-1.000000" />
+          <property name="useFillColor" type="bool" value="false" />
+          <property name="fillColor" type="color" value="#ff00ff00" />
+          <property name="easeIn" type="float" value="1.000000" />
+          <property name="easeOut" type="float" value="-1.000000" />
+          <property name="overlap" type="float" value="10.000000" />
+          <property name="shape" type="int" value="0" />
+          <property name="randomOrder" type="bool" value="false" />
+          <property name="seed" type="float" value="0.000000" />
+        </effect>
+        <content>Đôi Mi Khép Chạm Bờ Môi</content>
+      </text>
+      <shape id="40042519" label="Ô thoại 1 Copy" startTime="1350" endTime="3765" fillType="color" mediaFillMode="fill" parent="40042518" s=".callout.roundrect">
+        <transform>
+          <location value="307.179657,5.863342,0.000000" />
+          <pivot value="-136.800766,167.276367" />
+          <scale>
+            <kf t="0.486542" v="1.058182,1.058182" e="elastic 0.3682059 1.0 0.28876305 0.28137326" />
+            <kf t="0.003313" v="0.000000,0.000000" />
+          </scale>
+          <rotation value="-180.000000" />
+        </transform>
+        <fillColor value="#ff888888" />
+        <property name="size" type="vec2" value="389.000000,86.000000" />
+        <property name="tail" type="vec2" value="-135.000000,169.000000" />
+        <property name="cornerRadius" type="float" value="56.000000" />
+        <property name="tailWidth" type="float" value="80.000000" />
+      </shape>
+      <text id="40042520" label="Đôi Mi Khép Chạm Bờ Môi Copy" startTime="1350" endTime="3765" fillType="color" mediaFillMode="fill" parent="40042519" size="18.000000" font="googlefonts?name=Roboto&amp;weight=900" wrapWidth="808" align="center">
+        <transform>
+          <location value="0.000000,-1.890957,0.000000" />
+          <scale value="0.945017,0.945017" />
+        </transform>
+        <effect id="com.alightcreative.effects.texttransform" locallyApplied="true">
+          <property name="start" type="float">
+            <kf t="0.000000" v="0.000000" />
+            <kf t="0.532597" v="0.755000" />
+          </property>
+          <property name="end" type="float" value="1.000000" />
+          <property name="phase" type="float">
+            <kf t="0.532597" v="0.000000" />
+            <kf t="0.832543" v="0.000000" />
+          </property>
+          <property name="component" type="int" value="1" />
+          <property name="anchor" type="int" value="1" />
+          <property name="angle" type="float" value="0.000000" />
+          <property name="scale" type="float" value="-1.000000" />
+          <property name="stretch" type="float" value="0.000000" />
+          <property name="alpha" type="float" value="-1.000000" />
+          <property name="useFillColor" type="bool" value="false" />
+          <property name="fillColor" type="color" value="#ff00ff00" />
+          <property name="easeIn" type="float" value="1.000000" />
+          <property name="easeOut" type="float" value="-1.000000" />
+          <property name="overlap" type="float" value="10.000000" />
+          <property name="shape" type="int" value="0" />
+          <property name="randomOrder" type="bool" value="false" />
+          <property name="seed" type="float" value="0.000000" />
+        </effect>
+        <content>Chỉ vậy thôi anh muốn điên rồi</content>
+      </text>
+      <nullobj id="40042518" label="Rỗng 4" startTime="0" endTime="3765" mediaFillMode="fill" type="perspective">
+        <transform>
+          <location value="720.000000,540.000000,0.000000" />
+          <rotation>
+            <kf t="0.267729" v="0.000000" />
+            <kf t="0.670651" v="-180.000000" e="cubicBezier 0.6187165 0.0 0.39075333 1.0" />
+          </rotation>
+        </transform>
+      </nullobj>
+    </scene>
+  </embedScene>
+  <shape id="40042515" startTime="3883" endTime="7932" fillType="none" fillImage="content://media/external/images/media/1000082483" mediaFillMode="fill" parent="40042523" s=".circle">
+    <transform>
+      <scale>
+        <kf t="0.001976" v="0.035000,0.035000" />
+        <kf t="0.244752" v="2.270000,2.270000" e="elastic 0.3834291 1.0 0.29659665 0.32758403" />
+      </scale>
+    </transform>
+    <fillColor value="#ffdc6b6a" />
+    <path-stroke direction="centered" end-size="1.500000">
+      <color value="#ff0071ff" />
+      <size value="9.500000" />
+    </path-stroke>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="40042524" tag="+ruby" label="ảnh Copy" startTime="3700" endTime="7932" fillType="media" fillImage="content://media/external/images/media/1000082483" mediaFillMode="fill" parent="40042523" s=".circle">
+    <transform>
+      <scale>
+        <kf t="0.234168" v="2.125000,2.125000" e="elastic 0.3834291 1.0 0.29659665 0.32758403" />
+        <kf t="0.001891" v="0.035000,0.035000" />
+      </scale>
+    </transform>
+    <fillColor value="#ffdc6b6a" />
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <nullobj id="40042523" label="Rỗng 4" startTime="3700" endTime="7932" mediaFillMode="fill" parent="40042525" type="perspective">
+    <transform />
+    <effect id="com.alightcreative.effects.swing2" locallyApplied="true">
+      <property name="freq" type="float" value="1.040000" />
+      <property name="a1" type="float" value="-2.600000" />
+      <property name="a2" type="float" value="2.600000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.pulsate2" locallyApplied="true">
+      <property name="freq" type="float" value="0.900000" />
+      <property name="minsize" type="float" value="0.930000" />
+      <property name="maxsize" type="float" value="1.100000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="type" type="int" value="0" />
+    </effect>
+  </nullobj>
+  <nullobj id="40042525" label="Rỗng 5" startTime="3700" endTime="7932" mediaFillMode="fill" parent="40042538" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.352316" v="-0.000732,-0.122986,0.000000" />
+        <kf t="0.887996" v="1.591309,279.857544,0.000000" e="cubicBezier 0.42 0.0 0.58 1.0" />
+      </location>
+      <scale>
+        <kf t="0.352316" v="1.000000,1.000000" />
+        <kf t="0.887996" v="1.380000,1.380000" e="cubicBezier 0.42 0.0 0.58 1.0" />
+      </scale>
+    </transform>
+  </nullobj>
+  <nullobj id="40042538" label="Rỗng 6" startTime="6900" endTime="8916" mediaFillMode="fill" type="perspective">
+    <transform>
+      <location>
+        <kf t="-0.003968" v="720.000000,540.000000,0.000000" />
+        <kf t="0.525298" v="720.000000,1565.122070,0.000000" e="cubicBezier 0.42 0.0 0.58 1.0" />
+      </location>
+    </transform>
+  </nullobj>
+  <shape id="40042546" label="Hình dạng 1 Copy" startTime="7683" endTime="9382" fillType="none" mediaFillMode="fill" parent="40042545">
+    <transform>
+      <opacity value="0.447266" />
+    </transform>
+    <fillColor value="#ffb656f6" />
+    <effect id="com.alightcreative.effects.drawing.progress" locallyApplied="true">
+      <property name="start" type="float">
+        <kf t="0.216863" v="0.000000" />
+        <kf t="0.987029" v="100.000000" />
+      </property>
+      <property name="end" type="float">
+        <kf t="0.000811" v="0.000000" />
+        <kf t="0.824889" v="100.000000" />
+      </property>
+    </effect>
+    <path-stroke direction="centered" end-size="1.500000">
+      <color value="#ff60b5d5" />
+      <size value="120.000000" />
+    </path-stroke>
+    <path d="M 1209.1992 341.05078C 1209.1992 341.05078, 676.46484 -647.9141, -1533.1094 -380.10944C -3742.6836 -112.30475, 1209.1992 341.05078, 1209.1992 341.05078" />
+  </shape>
+  <text id="40042539" startTime="7416" endTime="9115" fillType="color" mediaFillMode="fill" parent="40042545" size="80.000000" font="googlefonts?name=Sniglet&amp;weight=800" wrapWidth="766" align="center">
+    <transform>
+      <location value="-27.175247,-247.537659,0.000000" />
+      <scale>
+        <kf t="0.750441" v="1.000000,1.000000" e="elastic 0.37761813 1.0 0.0 0.20099688" />
+        <kf t="0.789876" v="1.000000,1.000000" />
+        <kf t="0.995880" v="0.000000,0.000000" e="cubicBezier 1.0 0.0 0.8478088 0.47083932" />
+        <kf t="0.005297" v="0.002611,0.002611" />
+      </scale>
+    </transform>
+    <border direction="outside" id="1">
+      <color value="#ff000000" />
+      <size value="31.000000" />
+    </border>
+    <content>Anh</content>
+  </text>
+  <text id="40042540" label="Anh Copy" startTime="7516" endTime="9215" fillType="color" mediaFillMode="fill" parent="40042545" size="48.000000" font="googlefonts?name=Sniglet&amp;weight=800" wrapWidth="1203" align="center">
+    <transform>
+      <location value="-27.175247,-70.231995,0.000000" />
+      <scale>
+        <kf t="0.750441" v="1.000000,1.000000" e="elastic 0.37761813 1.0 0.0 0.20099688" />
+        <kf t="0.789876" v="1.000000,1.000000" />
+        <kf t="0.995880" v="0.000000,0.000000" e="cubicBezier 1.0 0.0 0.8478088 0.47083932" />
+        <kf t="0.005297" v="0.002611,0.002611" />
+      </scale>
+    </transform>
+    <fillColor value="#ff4996d8" />
+    <border direction="outside" id="1">
+      <size value="31.000000" />
+    </border>
+    <content>Chang phai</content>
+  </text>
+  <text id="40042541" label="Anh Copy 2" startTime="7633" endTime="9332" fillType="color" mediaFillMode="fill" parent="40042545" size="48.000000" font="googlefonts?name=Sniglet&amp;weight=800" wrapWidth="1203" align="center">
+    <transform>
+      <location value="-27.175247,76.249939,0.000000" />
+      <scale>
+        <kf t="0.740436" v="1.000000,1.000000" e="elastic 0.37761813 1.0 0.0 0.20099688" />
+        <kf t="0.789876" v="1.000000,1.000000" />
+        <kf t="0.995880" v="0.000000,0.000000" e="cubicBezier 1.0 0.0 0.8478088 0.47083932" />
+        <kf t="0.005297" v="0.002611,0.002611" />
+      </scale>
+    </transform>
+    <fillColor value="#ff4996d8" />
+    <border direction="outside" id="1">
+      <size value="31.000000" />
+    </border>
+    <content>la nguoi</content>
+  </text>
+  <text id="40042543" label="Anh Copy 3" startTime="7766" endTime="9465" fillType="color" mediaFillMode="fill" parent="40042545" size="80.000000" font="googlefonts?name=Sniglet&amp;weight=800" wrapWidth="1163" align="center">
+    <transform>
+      <location value="-27.175247,258.127258,0.000000" />
+      <scale>
+        <kf t="0.750441" v="1.000000,1.000000" e="elastic 0.37761813 1.0 0.0 0.20099688" />
+        <kf t="0.789876" v="1.000000,1.000000" />
+        <kf t="0.995880" v="0.000000,0.000000" e="cubicBezier 1.0 0.0 0.8478088 0.47083932" />
+        <kf t="0.005297" v="0.002611,0.002611" />
+      </scale>
+    </transform>
+    <border direction="outside" id="1">
+      <color value="#ff000000" />
+      <size value="31.000000" />
+    </border>
+    <content>Xau xa</content>
+  </text>
+  <shape id="40042544" label="Hình dạng 1" startTime="6866" endTime="8565" fillType="none" mediaFillMode="fill" parent="40042545">
+    <transform>
+      <opacity value="0.447266" />
+    </transform>
+    <fillColor value="#ffb656f6" />
+    <effect id="com.alightcreative.effects.drawing.progress" locallyApplied="true">
+      <property name="start" type="float">
+        <kf t="0.216863" v="0.000000" />
+        <kf t="0.987029" v="100.000000" />
+      </property>
+      <property name="end" type="float">
+        <kf t="0.000811" v="0.000000" />
+        <kf t="0.824889" v="100.000000" />
+      </property>
+    </effect>
+    <path-stroke direction="centered" end-size="1.500000">
+      <size value="120.000000" />
+    </path-stroke>
+    <path d="M 1252.75 264.65036C 1252.75 264.65036, 73.711914 565.538, -1514.8125 603.49115C -3103.337 641.4443, 1252.75 264.65036, 1252.75 264.65036" />
+  </shape>
+  <nullobj id="40042545" label="Rỗng 7" startTime="7466" endTime="11232" mediaFillMode="fill" parent="40042538" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.484599" v="35.700195,-1071.101563,0.000000" />
+        <kf t="0.998141" v="-763.310547,-1071.101563,0.000000" e="cubicBezier 0.6104762 0.0 0.3713337 1.0" />
+      </location>
+    </transform>
+    <effect id="com.alightcreative.effects.swing2" locallyApplied="true">
+      <property name="freq" type="float" value="1.040000" />
+      <property name="a1" type="float" value="-2.600000" />
+      <property name="a2" type="float" value="2.600000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.pulsate2" locallyApplied="true">
+      <property name="freq" type="float" value="0.900000" />
+      <property name="minsize" type="float" value="0.930000" />
+      <property name="maxsize" type="float" value="1.100000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="type" type="int" value="0" />
+    </effect>
+  </nullobj>
+  <shape id="40042547" tag="+ruby" label="ảnh" startTime="8983" endTime="11232" fillType="media" fillImage="content://media/external/images/media/1000082463" mediaFillMode="fill" parent="40042545" s=".rect">
+    <transform>
+      <location>
+        <kf t="0.581592" v="-35.700195,45.979492,0.000000" e="elastic 0.40719122 1.0 0.30666345 0.33864212" />
+        <kf t="0.000000" v="-35.700195,-993.771484,0.000000" />
+      </location>
+      <scale>
+        <kf t="0.589151" v="0.748971,0.748971" e="elastic 0.40719122 1.0 0.30666345 0.33864212" />
+        <kf t="0.000000" v="0.143004,0.143004" />
+      </scale>
+      <rotation value="2.195122" />
+    </transform>
+    <shadow direction="outside">
+      <size value="54.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="405.000000,486.000000" />
+  </shape>
+  <shape id="40042549" tag="+ruby" label="ảnh " startTime="9700" endTime="11232" fillType="media" fillImage="content://media/external/images/media/1000082470" mediaFillMode="fill" parent="40042545" s=".rect">
+    <transform>
+      <location>
+        <kf t="0.853786" v="910.000549,74.276245,0.000000" e="elastic 0.40719122 1.0 0.30666345 0.33864212" />
+        <kf t="0.000000" v="910.000549,-965.474731,0.000000" />
+      </location>
+      <scale>
+        <kf t="0.864883" v="0.748971,0.748971" e="elastic 0.40719122 1.0 0.30666345 0.33864212" />
+        <kf t="0.000000" v="0.143004,0.143004" />
+      </scale>
+      <rotation value="2.195122" />
+    </transform>
+    <shadow direction="outside">
+      <size value="54.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="405.000000,486.000000" />
+  </shape>
+  <text id="40042548" startTime="9150" endTime="11232" fillType="color" mediaFillMode="fill" parent="40042547" size="36.000000" font="googlefonts?name=Knewave&amp;weight=400" wrapWidth="937" align="center">
+    <transform>
+      <location>
+        <kf t="0.000000" v="-5.957636,-155.426666,0.000000" />
+        <kf t="0.676273" v="14.846296,408.200867,0.000000" e="elastic 0.44618863 1.0 0.16401958 0.17296028" />
+      </location>
+      <scale value="1.652081,1.652081" />
+      <rotation value="-2.195122" />
+    </transform>
+    <fillColor value="#ffffedcd" />
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float">
+        <kf t="1.000000" v="0.000000" />
+        <kf t="0.000000" v="1.510000" />
+      </property>
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="10.300000" />
+      <property name="m2" type="float" value="1.500000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <shadow direction="outside">
+      <opacity value="0.670000" />
+      <size value="11.000000" />
+      <offset value="3.000000,16.000000" />
+    </shadow>
+    <content>Dua Em Ve Que</content>
+  </text>
+  <text id="40042550" label="Dua Em Ve Que Copy" startTime="9866" endTime="11232" fillType="color" mediaFillMode="fill" parent="40042549" size="36.000000" font="googlefonts?name=Love Ya Like A Sister&amp;weight=400" wrapWidth="937" align="center">
+    <transform>
+      <location>
+        <kf t="0.000000" v="-10.373228,-102.469208,0.000000" />
+        <kf t="1.030747" v="10.430703,461.158264,0.000000" e="elastic 0.44618863 1.0 0.16401958 0.17296028" />
+      </location>
+      <scale value="1.652081,1.652081" />
+      <rotation value="-2.195122" />
+    </transform>
+    <fillColor value="#ffffedcd" />
+    <effect id="com.alightcreative.effects.textspacing" locallyApplied="true">
+      <property name="letterspacing" type="float" value="0.000000" />
+      <property name="linespacing" type="float" value="0.685000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float">
+        <kf t="1.000000" v="0.000000" />
+        <kf t="0.000000" v="0.780000" />
+      </property>
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="10.300000" />
+      <property name="m2" type="float" value="1.500000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <shadow direction="outside">
+      <opacity value="0.670000" />
+      <size value="11.000000" />
+      <offset value="3.000000,16.000000" />
+    </shadow>
+    <content>Thua Ba
+Ma Anh</content>
+  </text>
+  <shape id="40042551" label="Chữ nhật 3" startTime="10616" endTime="11232" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location>
+        <kf t="0.014610" v="720.000000,1674.248047,0.000000" />
+        <kf t="0.988636" v="720.000000,569.899414,0.000000" e="cubicBezier 0.0 0.0 0.58 1.0" />
+      </location>
+      <scale value="8.010000,6.007500" />
+    </transform>
+    <fillColor value="#ffffedcd" />
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="40042552" label="Chữ nhật 3 Copy" startTime="10700" endTime="11232" fillType="color" speed="1.157895" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location>
+        <kf t="0.014610" v="720.000000,1674.248047,0.000000" />
+        <kf t="0.988636" v="720.000000,569.899414,0.000000" e="cubicBezier 0.0 0.0 0.58 1.0" />
+      </location>
+      <scale value="8.010000,6.007500" />
+    </transform>
+    <fillColor value="#ffffb600" />
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="40042553" label="Chữ nhật 3 Copy 2" startTime="10750" endTime="11232" fillType="color" speed="1.278008" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location>
+        <kf t="0.014610" v="720.000000,1674.248047,0.000000" />
+        <kf t="0.988636" v="720.000000,569.899414,0.000000" e="cubicBezier 0.0 0.0 0.58 1.0" />
+      </location>
+      <scale value="8.010000,6.007500" />
+    </transform>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="40042554" label="Chữ nhật 3 Copy 3" startTime="10800" endTime="16499" fillType="color" speed="1.425926" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location>
+        <kf t="0.001108" v="720.000000,1674.248047,0.000000" />
+        <kf t="0.074941" v="720.000000,569.899414,0.000000" e="cubicBezier 0.0 0.0 0.58 1.0" />
+      </location>
+      <scale value="8.010000,6.007500" />
+    </transform>
+    <fillColor value="#fffff3a7" />
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="40042565" label="Hình dạng 2" hidden="true" startTime="11233" endTime="16499" fillType="none" mediaFillMode="fill" parent="40042558">
+    <transform>
+      <location value="627.298340,-54.282715,0.000000" />
+      <scale value="-1.184979,1.184979" />
+    </transform>
+    <fillColor value="#ff579650" />
+    <effect id="com.alightcreative.effects.drawing.progress" locallyApplied="true">
+      <property name="start" type="float">
+        <kf t="0.080963" v="0.000000" />
+        <kf t="0.368496" v="100.000000" />
+      </property>
+      <property name="end" type="float">
+        <kf t="0.000303" v="0.000000" />
+        <kf t="0.307963" v="100.000000" />
+      </property>
+    </effect>
+    <path-stroke direction="centered" end-size="1.500000">
+      <color value="#ffffffff" />
+      <size value="21.500000" />
+    </path-stroke>
+    <path d="M 298.70023 62.799805C 298.70023 62.799805, -71.74609 414.84863, -832.5967 299.3994C -1593.4473 183.9502, 298.70023 62.799805, 298.70023 62.799805" />
+  </shape>
+  <shape id="40042566" label="Hình dạng 2 Copy" hidden="true" startTime="11233" endTime="16499" fillType="none" mediaFillMode="fill" parent="40042558">
+    <transform>
+      <location value="627.298340,-54.282715,0.000000" />
+      <scale value="-1.184979,1.184979" />
+    </transform>
+    <fillColor value="#ff579650" />
+    <effect id="com.alightcreative.effects.drawing.progress" locallyApplied="true">
+      <property name="start" type="float">
+        <kf t="0.080963" v="0.000000" />
+        <kf t="0.368496" v="100.000000" />
+      </property>
+      <property name="end" type="float">
+        <kf t="0.000303" v="0.000000" />
+        <kf t="0.307963" v="100.000000" />
+      </property>
+    </effect>
+    <path-stroke direction="centered" end-size="1.500000">
+      <color value="#ffffb3f0" />
+      <size value="21.500000" />
+    </path-stroke>
+    <path d="M 298.70023 62.799805C 298.70023 62.799805, -171.86218 -236.15135, -875.75183 -235.35057C -1579.6415 -234.54979, 298.70023 62.799805, 298.70023 62.799805" />
+  </shape>
+  <shape id="40042567" label="Hình dạng 2 Copy 2" hidden="true" startTime="11233" endTime="16499" fillType="none" mediaFillMode="fill" parent="40042558">
+    <transform>
+      <location value="627.298340,-54.282715,0.000000" />
+      <scale value="-1.184979,1.184979" />
+    </transform>
+    <fillColor value="#ff579650" />
+    <effect id="com.alightcreative.effects.drawing.progress" locallyApplied="true">
+      <property name="start" type="float">
+        <kf t="0.080963" v="0.000000" />
+        <kf t="0.368496" v="100.000000" />
+      </property>
+      <property name="end" type="float">
+        <kf t="0.000303" v="0.000000" />
+        <kf t="0.307963" v="100.000000" />
+      </property>
+    </effect>
+    <path-stroke direction="centered" end-size="1.500000">
+      <color value="#ffffffff" />
+      <size value="21.500000" />
+    </path-stroke>
+    <path d="M 298.70023 62.799805C 298.70023 62.799805, -119.02899 289.5323, -772.0788 -650.8662C -1425.1287 -1591.2646, 298.70023 62.799805, 298.70023 62.799805" />
+  </shape>
+  <text id="40042556" startTime="11233" endTime="13183" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Freckle Face&amp;weight=400" wrapWidth="892" align="left">
+    <transform>
+      <location value="500.170776,155.656250,0.000000" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <content>TREN</content>
+  </text>
+  <text id="40042568" label="TREN Copy 7" startTime="13183" endTime="16499" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Freckle Face&amp;weight=400" wrapWidth="892" align="left">
+    <transform>
+      <location value="500.170776,155.656250,0.000000" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <content>MONG</content>
+  </text>
+  <text id="40042559" label="TREN Copy" startTime="11366" endTime="13416" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Flavors&amp;weight=400" wrapWidth="892" align="left">
+    <transform>
+      <location value="1021.170776,155.656250,0.000000" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <content>TAY</content>
+  </text>
+  <text id="40042569" label="TREN Copy 8" startTime="13416" endTime="16499" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Flavors&amp;weight=400" wrapWidth="892" align="left">
+    <transform>
+      <location value="1071.771362,155.656250,0.000000" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <content>EM</content>
+  </text>
+  <text id="40042560" label="TREN Copy 2" startTime="11500" endTime="13615" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Cabin Sketch&amp;weight=700" wrapWidth="892" align="left">
+    <transform>
+      <location value="500.170776,342.106445,0.000000" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <content>ANH</content>
+  </text>
+  <text id="40042570" label="TREN Copy 9" startTime="13616" endTime="16499" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Cabin Sketch&amp;weight=700" wrapWidth="892" align="left">
+    <transform>
+      <location value="500.170776,342.106445,0.000000" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <content>GAT</content>
+  </text>
+  <text id="40042561" label="TREN Copy 3" startTime="11633" endTime="13850" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Fredericka the Great&amp;weight=400" wrapWidth="892" align="left">
+    <transform>
+      <location value="500.170776,540.606445,0.000000" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <content>CAM</content>
+  </text>
+  <text id="40042571" label="TREN Copy 10" startTime="13850" endTime="16499" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Fredericka the Great&amp;weight=400" wrapWidth="892" align="left">
+    <transform>
+      <location value="500.170776,540.606445,0.000000" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <content>DAU</content>
+  </text>
+  <text id="40042562" label="TREN Copy 4" startTime="11916" endTime="14033" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Fredoka One&amp;weight=400" wrapWidth="892" align="left">
+    <transform>
+      <location value="500.170776,727.606445,0.000000" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <content>MOT</content>
+  </text>
+  <text id="40042572" label="TREN Copy 11" startTime="14033" endTime="16499" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Fredoka One&amp;weight=400" wrapWidth="892" align="left">
+    <transform>
+      <location value="500.170776,727.606445,0.000000" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <content>DONG</content>
+  </text>
+  <text id="40042563" label="TREN Copy 5" startTime="12066" endTime="14216" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Cabin Sketch&amp;weight=700" wrapWidth="892" align="left">
+    <transform>
+      <location value="500.170776,917.106445,0.000000" />
+    </transform>
+    <fillColor value="#ffa00000" />
+    <content>DOA</content>
+  </text>
+  <text id="40042573" label="TREN Copy 12" startTime="14216" endTime="16499" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Cabin Sketch&amp;weight=700" wrapWidth="892" align="left">
+    <transform>
+      <location value="500.170776,917.106445,0.000000" />
+    </transform>
+    <fillColor value="#ffa00000" />
+    <content>Y</content>
+  </text>
+  <text id="40042564" label="TREN Copy 6" startTime="12233" endTime="14416" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Cabin Sketch&amp;weight=700" wrapWidth="892" align="left">
+    <transform>
+      <location value="927.869995,917.106445,0.000000" />
+    </transform>
+    <fillColor value="#ffa00000" />
+    <content>HOA</content>
+  </text>
+  <text id="40042574" label="TREN Copy 13" startTime="14416" endTime="16499" fillType="color" mediaFillMode="fill" size="72.000000" font="googlefonts?name=Cabin Sketch&amp;weight=700" wrapWidth="892" align="left">
+    <transform>
+      <location value="652.270386,917.106445,0.000000" />
+    </transform>
+    <fillColor value="#ffa00000" />
+    <content>NHA</content>
+  </text>
+  <shape id="40042558" tag="+ruby" label="đoá hoa" startTime="11233" endTime="16499" fillType="media" fillImage="content://media/external/images/media/1000086490" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="1878.790039,511.292725,0.000000" />
+      <pivot value="-341.350555,477.351563" />
+      <scale>
+        <kf t="0.382833" v="-0.801389,0.801389" e="elastic 0.2656194 1.0 0.17978704 0.13780367" />
+        <kf t="0.001519" v="-0.005556,0.005556" />
+      </scale>
+    </transform>
+    <effect id="com.alightcreative.effects.swing2" locallyApplied="true">
+      <property name="freq" type="float" value="1.040000" />
+      <property name="a1" type="float" value="-2.600000" />
+      <property name="a2" type="float" value="2.600000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="type" type="int" value="0" />
+    </effect>
+    <border direction="outside" id="1">
+      <color value="#ffffd998" />
+      <size value="27.000000" />
+    </border>
+    <property name="size" type="vec2" value="720.000000,523.500000" />
+  </shape>
+  <embedScene id="40042577" label="Nhóm và Mặt nạ 1" startTime="14166" endTime="16499" fillType="intrinsic" mediaFillMode="fill">
+    <transform>
+      <location>
+        <kf t="0.660952" v="720.000000,540.000000,0.000000" e="step 1.0 0.0" />
+        <kf t="0.010716" v="1969.390625,-1704.689453,0.000000" />
+        <kf t="0.267895" v="1523.349243,-861.478394,0.000000" e="step 1.0 0.0" />
+        <kf t="0.460780" v="1129.121094,-173.729980,0.000000" e="step 1.0 0.0" />
+      </location>
+      <scale>
+        <kf t="0.010716" v="6.072065,6.072065" />
+        <kf t="0.267895" v="4.088725,4.088725" e="step 1.0 0.0" />
+        <kf t="0.460780" v="2.572993,2.572993" e="step 1.0 0.0" />
+        <kf t="0.660952" v="1.017048,1.017048" e="step 1.0 0.0" />
+      </scale>
+    </transform>
+    <fillColor value="#ff000000" />
+    <scene title="" width="2581" height="1080" exportWidth="2581" exportHeight="1080" precompose="dynamicResolution" bgcolor="#00000000" totalTime="2333" fps="60" modifiedTime="0" amver="1002592" ffver="106" am="com.alightcreative.motion/5.0.271.1002592" amplatform="android" retime="off" retimeAdaptFPS="false">
+      <shape id="40042575" label="Chữ nhật 5" startTime="0" endTime="2333" fillType="color" mediaFillMode="fill" s=".rect">
+        <transform>
+          <location value="1290.599976,540.000000,0.000000" />
+          <scale value="5.400000,5.400000" />
+        </transform>
+        <fillColor value="#ff000000" />
+        <property name="size" type="vec2" value="239.000000,100.000000" />
+      </shape>
+      <shape id="40042576" label="Chữ nhật 5 Copy" startTime="0" endTime="2333" fillType="color" blending="exclude" mediaFillMode="fill" s=".rect">
+        <transform>
+          <location value="972.865601,917.106445,0.000000" />
+        </transform>
+        <fillColor value="#ffb1ca73" />
+        <property name="size" type="vec2" value="239.000000,100.000000" />
+      </shape>
+    </scene>
+  </embedScene>
+  <shape id="40042578" label="Chữ nhật 5" startTime="15700" endTime="16499" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="720.000000,540.000000,0.000000" />
+      <scale value="7.200000,5.400000" />
+      <opacity>
+        <kf t="0.989987" v="1.000000" />
+        <kf t="0.010013" v="0.000000" />
+      </opacity>
+    </transform>
+    <fillColor value="#ff000000" />
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="40042581" label="Chữ nhật 6" startTime="16483" endTime="25566" fillType="gradient" speed="0.570516" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="720.000000,540.000000,0.000000" />
+      <scale value="7.895000,5.921249" />
+    </transform>
+    <fillColor value="#ff5bd73d" />
+    <gradient type="linear" startColor="#fff5a4a4" endColor="#ffffffff" start="0.407604,-0.582671" end="0.533863,2.153221" />
+    <effect id="com.alightcreative.solidcolor" locallyApplied="true">
+      <property name="color" type="color" value="#ff000000" />
+      <property name="alpha" type="float">
+        <kf t="0.001541" v="1.000000" />
+        <kf t="0.077948" v="0.000000" />
+      </property>
+      <property name="blendMode" type="int" value="0" />
+    </effect>
+    <property name="size" type="vec2" value="142.000000,100.000000" />
+  </shape>
+  <shape id="40042582" label="Chữ nhật tròn 1" startTime="16483" endTime="25566" fillType="color" speed="0.570516" mediaFillMode="fill" parent="40042596" s=".roundrect">
+    <transform>
+      <location value="-45.222530,881.618164,0.000000" />
+      <rotation value="2.538587" />
+    </transform>
+    <shadow direction="outside">
+      <opacity value="0.200000" />
+      <offset value="-15.000000,39.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="593.000000,177.000000" />
+    <property name="cornerRadius" type="float" value="75.000000" />
+  </shape>
+  <shape id="40042598" label="Chữ nhật tròn 1 Copy 2" startTime="16483" endTime="25566" fillType="color" speed="0.570516" mediaFillMode="fill" parent="40042596" s=".roundrect">
+    <transform>
+      <location value="-77.237236,1603.658691,0.000000" />
+      <rotation value="2.538587" />
+    </transform>
+    <shadow direction="outside">
+      <opacity value="0.200000" />
+      <offset value="14.000000,39.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="593.000000,177.000000" />
+    <property name="cornerRadius" type="float" value="75.000000" />
+  </shape>
+  <shape id="40042618" label="Chữ nhật tròn 1 Copy 4" startTime="16483" endTime="25566" fillType="color" speed="0.570516" mediaFillMode="fill" parent="40042596" s=".roundrect">
+    <transform>
+      <location value="-111.479980,2303.879883,0.000000" />
+      <rotation value="2.538587" />
+    </transform>
+    <shadow direction="outside">
+      <opacity value="0.200000" />
+      <offset value="-15.000000,39.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="593.000000,177.000000" />
+    <property name="cornerRadius" type="float" value="75.000000" />
+  </shape>
+  <shape id="40042585" label="Chữ nhật tròn 1 Copy" startTime="16483" endTime="25566" fillType="gradient" speed="0.570516" mediaFillMode="fill" parent="40042582" s=".roundrect">
+    <transform />
+    <gradient type="linear" startColor="#ff000000" endColor="#ffffffff" start="-0.126847,2.060946" end="1.653989,2.065675" />
+    <effect id="com.alightcreative.effects.wipe2" locallyApplied="true">
+      <property name="start" type="float" value="0.000000" />
+      <property name="end" type="float" value="1.000000" />
+      <property name="angle" type="float" value="0.000000" />
+      <property name="feather" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.halftonelines" locallyApplied="true">
+      <property name="amount" type="float" value="198.100006" />
+      <property name="strength" type="float" value="0.522000" />
+      <property name="angle" type="float" value="45.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="color1" type="color" value="#ffffedcd" />
+      <property name="color2" type="color" value="#ffffeedd" />
+    </effect>
+    <property name="size" type="vec2" value="593.000000,177.000000" />
+    <property name="cornerRadius" type="float" value="75.000000" />
+  </shape>
+  <shape id="40042599" label="Chữ nhật tròn 1 Copy 3" startTime="16483" endTime="25566" fillType="gradient" speed="0.570516" mediaFillMode="fill" parent="40042598" s=".roundrect">
+    <transform />
+    <gradient type="linear" startColor="#ff000000" endColor="#ffffffff" start="-0.126847,2.060946" end="1.653989,2.065675" />
+    <effect id="com.alightcreative.effects.wipe2" locallyApplied="true">
+      <property name="start" type="float" value="0.000000" />
+      <property name="end" type="float" value="1.000000" />
+      <property name="angle" type="float" value="0.000000" />
+      <property name="feather" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.halftonelines" locallyApplied="true">
+      <property name="amount" type="float" value="198.100006" />
+      <property name="strength" type="float" value="0.522000" />
+      <property name="angle" type="float" value="45.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="color1" type="color" value="#ffffedcd" />
+      <property name="color2" type="color" value="#ffffeedd" />
+    </effect>
+    <property name="size" type="vec2" value="593.000000,177.000000" />
+    <property name="cornerRadius" type="float" value="75.000000" />
+  </shape>
+  <shape id="40042619" label="Chữ nhật tròn 1 Copy 5" startTime="16483" endTime="25566" fillType="gradient" speed="0.570516" mediaFillMode="fill" parent="40042618" s=".roundrect">
+    <transform />
+    <gradient type="linear" startColor="#ff000000" endColor="#ffffffff" start="-0.126847,2.060946" end="1.653989,2.065675" />
+    <effect id="com.alightcreative.effects.wipe2" locallyApplied="true">
+      <property name="start" type="float" value="0.000000" />
+      <property name="end" type="float" value="1.000000" />
+      <property name="angle" type="float" value="0.000000" />
+      <property name="feather" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.halftonelines" locallyApplied="true">
+      <property name="amount" type="float" value="198.100006" />
+      <property name="strength" type="float" value="0.522000" />
+      <property name="angle" type="float" value="45.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="color1" type="color" value="#ffffedcd" />
+      <property name="color2" type="color" value="#ffffeedd" />
+    </effect>
+    <property name="size" type="vec2" value="593.000000,177.000000" />
+    <property name="cornerRadius" type="float" value="75.000000" />
+  </shape>
+  <shape id="40042584" tag="+ruby" label="ảnh" startTime="16483" endTime="25566" fillType="media" fillImage="content://media/external/images/media/1000083019" speed="0.570516" mediaFillMode="fill" parent="40042582" s=".circle">
+    <transform>
+      <location value="-409.500000,0.000000,0.000000" />
+      <scale value="1.510000,1.510000" />
+    </transform>
+    <fillColor value="#ffba50e7" />
+    <border direction="outside" id="1">
+      <color value="#fffefbc9" />
+      <size value="16.000000" />
+    </border>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="40042600" tag="+ruby" label="ảnh " startTime="16483" endTime="25565" fillType="media" fillImage="content://media/external/images/media/1000082470" mediaFillMode="fill" parent="40042598" s=".circle">
+    <transform>
+      <location>
+        <kf t="0.498238" v="405.807861,9.026855,0.000000" e="cubicBezier 0.42 0.0 0.58 1.0" />
+        <kf t="0.564303" v="406.807861,9.026855,0.000000" />
+      </location>
+      <scale>
+        <kf t="0.303678" v="1.510000,1.510000" />
+        <kf t="0.489099" v="2.035000,2.035000" e="cubicBezier 0.42 0.0 0.38476187 1.0" />
+        <kf t="0.569808" v="1.525000,1.525000" e="cubicBezier 0.42 0.0 0.58 1.0" />
+      </scale>
+    </transform>
+    <fillColor value="#ffba50e7" />
+    <border direction="outside" id="1">
+      <color value="#fffefbc9" />
+      <size value="16.000000" />
+    </border>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="40042620" tag="+ruby" label="ảnh " startTime="16483" endTime="25565" fillType="media" fillImage="content://media/external/images/media/1000082477" mediaFillMode="fill" parent="40042618" s=".circle">
+    <transform>
+      <location value="-314.960846,1.635437,0.000000" />
+      <scale value="2.235000,2.235000" />
+      <rotation value="-86.707306" />
+    </transform>
+    <fillColor value="#ffba50e7" />
+    <effect id="com.alightcreative.effects.spin" locallyApplied="true">
+      <property name="rpm" type="float" value="2.000000" />
+    </effect>
+    <border direction="outside" id="1">
+      <color value="#fffefbc9" />
+      <size value="16.000000" />
+    </border>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="40042602" startTime="19233" endTime="21015" fillType="color" fillImage="content://media/external/images/media/1000082470" mediaFillMode="fill" parent="40042598" s=".circle">
+    <transform>
+      <location>
+        <kf t="0.996072" v="405.807861,9.026855,0.000000" e="cubicBezier 0.42 0.0 0.58 1.0" />
+      </location>
+      <scale>
+        <kf t="0.004489" v="1.510000,1.510000" />
+        <kf t="0.949495" v="2.035000,2.035000" e="cubicBezier 0.42 0.0 0.38476187 1.0" />
+      </scale>
+      <opacity value="0.480469" />
+    </transform>
+    <effect id="com.alightcreative.effects.wipe2" locallyApplied="true">
+      <property name="start" type="float">
+        <kf t="0.182379" v="0.000000" />
+        <kf t="1.000000" v="1.136000" />
+      </property>
+      <property name="end" type="float">
+        <kf t="0.004489" v="-0.116000" />
+        <kf t="0.865320" v="1.199000" />
+      </property>
+      <property name="angle" type="float" value="21.000000" />
+      <property name="feather" type="float" value="17.800001" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <text id="40042586" startTime="16483" endTime="25565" fillType="color" mediaFillMode="fill" parent="40042582" size="72.000000" font="googlefonts?name=Montserrat&amp;weight=900" wrapWidth="782" align="center">
+    <transform>
+      <location value="169.781189,9.026855,0.000000" />
+    </transform>
+    <fillColor value="#ffa00000" />
+    <effect id="com.alightcreative.effects.offset" locallyApplied="true">
+      <property name="offset" type="vec2">
+        <kf t="0.000991" v="0.000000,0.000000" />
+        <kf t="0.570579" v="-1998.000000,0.000000" />
+      </property>
+      <property name="feather" type="float" value="0.000000" />
+      <property name="mask" type="bool" value="false" />
+    </effect>
+    <content>EM LA</content>
+  </text>
+  <text id="40042601" label="EM LA Copy" startTime="16483" endTime="25565" fillType="color" mediaFillMode="fill" parent="40042598" size="20.000000" font="googlefonts?name=Montserrat&amp;weight=900" wrapWidth="782" align="center">
+    <transform>
+      <location>
+        <kf t="0.498238" v="-173.268616,9.026855,0.000000" e="cubicBezier 0.42 0.0 0.58 1.0" />
+      </location>
+    </transform>
+    <fillColor value="#ffa00000" />
+    <effect id="com.alightcreative.effects.offset" locallyApplied="true">
+      <property name="offset" type="vec2">
+        <kf t="0.000991" v="0.000000,0.000000" />
+        <kf t="1.000000" v="0.000000,-7959.000000" />
+      </property>
+      <property name="feather" type="float" value="0.000000" />
+      <property name="mask" type="bool" value="false" />
+    </effect>
+    <content>VANG BAC CHAU BAO</content>
+  </text>
+  <text id="40042621" label="EM LA Copy 2" startTime="16483" endTime="25565" fillType="color" mediaFillMode="fill" parent="40042598" size="20.000000" font="googlefonts?name=Montserrat&amp;weight=900" wrapWidth="782" align="center">
+    <transform>
+      <location value="235.486877,702.945313,0.000000" />
+    </transform>
+    <fillColor value="#ffa00000" />
+    <effect id="com.alightcreative.effects.offset" locallyApplied="true">
+      <property name="offset" type="vec2">
+        <kf t="0.000991" v="0.000000,0.000000" />
+        <kf t="1.000000" v="0.000000,-7959.000000" />
+      </property>
+      <property name="feather" type="float" value="0.000000" />
+      <property name="mask" type="bool" value="false" />
+    </effect>
+    <content>MUON NHA MINH
+DONG CHAU</content>
+  </text>
+  <shape id="40042603" label="Hình dạng 3" startTime="19383" endTime="20832" fillType="color" mediaFillMode="fill" parent="40042600">
+    <transform>
+      <location value="39.383728,-95.245468,0.000000" />
+      <scale>
+        <kf t="0.512077" v="0.055556,0.055556" e="cubicBezier 0.0 0.0 0.58 1.0" />
+        <kf t="-0.005521" v="0.000000,0.000000" />
+        <kf t="0.995169" v="-0.001852,-0.001852" e="cubicBezier 0.0 0.0 0.58 1.0" />
+      </scale>
+    </transform>
+    <effect id="com.alightcreative.effects.spin" locallyApplied="true">
+      <property name="rpm" type="float" value="10.000000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="7.000000" />
+      <offset value="0.000000,1.000000" />
+    </shadow>
+    <path d="M 87.60979 94.67082C 38.703228 144.00974, 9.499967 202.4528, 0.0 270.0C -9.499967 202.4528, -38.703228 144.00974, -87.60979 94.67082C -136.51634 45.3319, -195.78227 13.774951, -265.4076 0.0C -195.78227 -13.774951, -136.51634 -45.3319, -87.60979 -94.67082C -38.703228 -144.00975, -9.499967 -202.4528, 0.0 -270.0C 9.499967 -202.4528, 38.703228 -144.00975, 87.60979 -94.67082C 136.51634 -45.3319, 195.78227 -13.774951, 265.4076 0.0C 195.78227 13.774951, 136.51634 45.3319, 87.60979 94.67082Z" />
+  </shape>
+  <shape id="40042604" label="Hình dạng 3 Copy" startTime="19900" endTime="21349" fillType="color" mediaFillMode="fill" parent="40042600">
+    <transform>
+      <location value="-66.517090,14.694962,0.000000" />
+      <scale>
+        <kf t="0.512077" v="0.055556,0.055556" e="cubicBezier 0.0 0.0 0.58 1.0" />
+        <kf t="-0.005521" v="0.000000,0.000000" />
+        <kf t="0.995169" v="-0.001852,-0.001852" e="cubicBezier 0.0 0.0 0.58 1.0" />
+      </scale>
+    </transform>
+    <effect id="com.alightcreative.effects.spin" locallyApplied="true">
+      <property name="rpm" type="float" value="10.000000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="7.000000" />
+      <offset value="0.000000,1.000000" />
+    </shadow>
+    <path d="M 87.60979 94.67082C 38.703228 144.00974, 9.499967 202.4528, 0.0 270.0C -9.499967 202.4528, -38.703228 144.00974, -87.60979 94.67082C -136.51634 45.3319, -195.78227 13.774951, -265.4076 0.0C -195.78227 -13.774951, -136.51634 -45.3319, -87.60979 -94.67082C -38.703228 -144.00975, -9.499967 -202.4528, 0.0 -270.0C 9.499967 -202.4528, 38.703228 -144.00975, 87.60979 -94.67082C 136.51634 -45.3319, 195.78227 -13.774951, 265.4076 0.0C 195.78227 13.774951, 136.51634 45.3319, 87.60979 94.67082Z" />
+  </shape>
+  <shape id="40042605" label="Hình dạng 3 Copy 2" startTime="20283" endTime="21665" fillType="color" mediaFillMode="fill" parent="40042600">
+    <transform>
+      <location value="65.811829,36.094376,0.000000" />
+      <scale>
+        <kf t="0.536903" v="0.055556,0.055556" e="cubicBezier 0.0 0.0 0.58 1.0" />
+        <kf t="-0.005789" v="0.000000,0.000000" />
+        <kf t="1.043415" v="-0.001852,-0.001852" e="cubicBezier 0.0 0.0 0.58 1.0" />
+      </scale>
+    </transform>
+    <effect id="com.alightcreative.effects.spin" locallyApplied="true">
+      <property name="rpm" type="float" value="10.000000" />
+    </effect>
+    <shadow direction="outside">
+      <size value="7.000000" />
+      <offset value="0.000000,1.000000" />
+    </shadow>
+    <path d="M 87.60979 94.67082C 38.703228 144.00974, 9.499967 202.4528, 0.0 270.0C -9.499967 202.4528, -38.703228 144.00974, -87.60979 94.67082C -136.51634 45.3319, -195.78227 13.774951, -265.4076 0.0C -195.78227 -13.774951, -136.51634 -45.3319, -87.60979 -94.67082C -38.703228 -144.00975, -9.499967 -202.4528, 0.0 -270.0C 9.499967 -202.4528, 38.703228 -144.00975, 87.60979 -94.67082C 136.51634 -45.3319, 195.78227 -13.774951, 265.4076 0.0C 195.78227 13.774951, 136.51634 45.3319, 87.60979 94.67082Z" />
+  </shape>
+  <shape id="40042607" label="Chữ nhật 7" startTime="16483" endTime="25565" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="720.000000,540.000000,0.000000" />
+      <scale value="11.750000,8.812497" />
+    </transform>
+    <fillColor value="#ffbbfee0" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.flip3" locallyApplied="true">
+      <property name="angle" type="float">
+        <kf t="0.160538" v="0.000000" />
+        <kf t="0.323937" v="-25.900000" e="cubicBezier 0.42 0.0 0.58 1.0" />
+        <kf t="0.509249" v="20.100000" e="cubicBezier 0.42 0.0 0.58 1.0" />
+        <kf t="0.733098" v="-19.700001" e="cubicBezier 0.42 0.0 0.58 1.0" />
+      </property>
+      <property name="axis" type="float">
+        <kf t="0.323937" v="360.000000" />
+      </property>
+      <property name="pivot" type="vec2">
+        <kf t="0.171548" v="0.000000,0.000000" />
+      </property>
+      <property name="crop" type="float" value="1.000000" />
+      <property name="zdist" type="float" value="0.000000" />
+      <property name="solid" type="bool" value="false" />
+      <property name="solidColor" type="color" value="#ffdd4455" />
+      <property name="thickness" type="float" value="1.000000" />
+      <property name="enableLight" type="bool" value="false" />
+      <property name="lightIntensity" type="float" value="1.000000" />
+      <property name="lightColor" type="color" value="#ffffffff" />
+      <property name="shine" type="float" value="0.800000" />
+      <property name="spec" type="float" value="30.000000" />
+      <property name="ambient" type="float" value="0.100000" />
+      <property name="lightDir" type="vec2" value="75.000000,-75.000000" />
+      <property name="lightDepth" type="float" value="-100.000000" />
+    </effect>
+    <property name="size" type="vec2" value="147.000000,100.000000" />
+  </shape>
+  <text id="40042588" startTime="17282" endTime="21665" fillType="color" mediaFillMode="fill" parent="40042596" size="96.000000" font="googlefonts?name=Sniglet&amp;weight=800" wrapWidth="1319" align="center">
+    <transform>
+      <location value="-212.900391,0.000000,0.000000" />
+      <pivot value="0.000000,121.000000" />
+      <scale>
+        <kf t="0.290897" v="1.000000,1.000000" e="elastic 0.33585846 1.0 0.0 0.2748741" />
+        <kf t="0.001825" v="0.000000,0.000000" />
+      </scale>
+      <rotation>
+        <kf t="0.290897" v="0.000000" e="elastic 0.33585846 1.0 0.0 0.2748741" />
+        <kf t="0.001825" v="45.000000" />
+      </rotation>
+    </transform>
+    <fillColor value="#ffff9dba" />
+    <border direction="outside" id="1">
+      <size value="37.000000" />
+    </border>
+    <content>B</content>
+  </text>
+  <text id="40042589" label="B Copy" startTime="17349" endTime="21665" fillType="color" mediaFillMode="fill" parent="40042596" size="96.000000" font="googlefonts?name=Sniglet&amp;weight=800" wrapWidth="1319" align="center">
+    <transform>
+      <location value="-11.500000,0.000000,0.000000" />
+      <pivot value="0.000000,121.000000" />
+      <scale>
+        <kf t="0.295412" v="1.000000,1.000000" e="elastic 0.33585846 1.0 0.0 0.2748741" />
+        <kf t="0.001854" v="0.000000,0.000000" />
+      </scale>
+      <rotation>
+        <kf t="0.295412" v="0.000000" e="elastic 0.33585846 1.0 0.0 0.2748741" />
+        <kf t="0.001854" v="45.000000" />
+      </rotation>
+    </transform>
+    <fillColor value="#ffff9dba" />
+    <border direction="outside" id="1">
+      <size value="37.000000" />
+    </border>
+    <content>a</content>
+  </text>
+  <text id="40042590" label="B Copy 2" startTime="17416" endTime="21665" fillType="color" mediaFillMode="fill" parent="40042596" size="96.000000" font="googlefonts?name=Sniglet&amp;weight=800" wrapWidth="1319" align="center">
+    <transform>
+      <location value="165.299805,-61.700195,0.000000" />
+      <pivot value="0.000000,121.000000" />
+      <scale>
+        <kf t="0.300071" v="1.000000,1.000000" e="elastic 0.33585846 1.0 0.0 0.2748741" />
+        <kf t="0.001883" v="0.000000,0.000000" />
+      </scale>
+      <rotation>
+        <kf t="0.300071" v="0.000000" e="elastic 0.33585846 1.0 0.0 0.2748741" />
+        <kf t="0.001883" v="45.000000" />
+      </rotation>
+    </transform>
+    <fillColor value="#ffff9dba" />
+    <border direction="outside" id="1">
+      <size value="37.000000" />
+    </border>
+    <content>b</content>
+  </text>
+  <text id="40042591" label="B Copy 3" startTime="17482" endTime="21665" fillType="color" mediaFillMode="fill" parent="40042596" size="96.000000" font="googlefonts?name=Sniglet&amp;weight=800" wrapWidth="1319" align="center">
+    <transform>
+      <location value="345.299805,0.000000,0.000000" />
+      <pivot value="0.000000,121.000000" />
+      <scale>
+        <kf t="0.304806" v="1.000000,1.000000" e="elastic 0.33585846 1.0 0.0 0.2748741" />
+        <kf t="0.001913" v="0.000000,0.000000" />
+      </scale>
+      <rotation>
+        <kf t="0.304806" v="0.000000" e="elastic 0.33585846 1.0 0.0 0.2748741" />
+        <kf t="0.001913" v="45.000000" />
+      </rotation>
+    </transform>
+    <fillColor value="#ffff9dba" />
+    <border direction="outside" id="1">
+      <size value="37.000000" />
+    </border>
+    <content>y</content>
+  </text>
+  <text id="40042592" startTime="17682" endTime="21665" fillType="color" mediaFillMode="fill" parent="40042596" size="96.000000" font="googlefonts?name=Sniglet&amp;weight=800" wrapWidth="1319" align="center">
+    <transform>
+      <location value="-163.622437,254.908081,0.000000" />
+      <pivot value="0.000000,121.000000" />
+      <scale>
+        <kf t="0.320110" v="1.000000,1.000000" e="elastic 0.33585846 1.0 0.0 0.2748741" />
+        <kf t="0.002008" v="0.000000,0.000000" />
+      </scale>
+      <rotation>
+        <kf t="0.320110" v="0.000000" e="elastic 0.33585846 1.0 0.0 0.2748741" />
+        <kf t="0.002008" v="45.000000" />
+      </rotation>
+    </transform>
+    <fillColor value="#ffff6894" />
+    <border direction="outside" id="1">
+      <size value="37.000000" />
+    </border>
+    <content>G</content>
+  </text>
+  <text id="40042593" label="B Copy" startTime="17749" endTime="21665" fillType="color" mediaFillMode="fill" parent="40042596" size="96.000000" font="googlefonts?name=Sniglet&amp;weight=800" wrapWidth="1319" align="center">
+    <transform>
+      <location value="1.024841,254.945801,0.000000" />
+      <pivot value="0.000000,121.000000" />
+      <scale>
+        <kf t="0.325587" v="1.000000,1.000000" e="elastic 0.33585846 1.0 0.0 0.2748741" />
+        <kf t="0.002042" v="0.000000,0.000000" />
+      </scale>
+      <rotation>
+        <kf t="0.325587" v="0.000000" e="elastic 0.33585846 1.0 0.0 0.2748741" />
+        <kf t="0.002042" v="45.000000" />
+      </rotation>
+    </transform>
+    <fillColor value="#ffff6894" />
+    <border direction="outside" id="1">
+      <size value="37.000000" />
+    </border>
+    <content>i</content>
+  </text>
+  <text id="40042594" label="B Copy 2" startTime="17816" endTime="21665" fillType="color" mediaFillMode="fill" parent="40042596" size="96.000000" font="googlefonts?name=Sniglet&amp;weight=800" wrapWidth="1319" align="center">
+    <transform>
+      <location value="132.088715,255.185883,0.000000" />
+      <pivot value="0.000000,121.000000" />
+      <scale>
+        <kf t="0.331255" v="1.000000,1.000000" e="elastic 0.33585846 1.0 0.0 0.2748741" />
+        <kf t="0.002079" v="0.000000,0.000000" />
+      </scale>
+      <rotation>
+        <kf t="0.331255" v="0.000000" e="elastic 0.33585846 1.0 0.0 0.2748741" />
+        <kf t="0.002079" v="45.000000" />
+      </rotation>
+    </transform>
+    <fillColor value="#ffff6894" />
+    <border direction="outside" id="1">
+      <size value="37.000000" />
+    </border>
+    <content>r</content>
+  </text>
+  <text id="40042595" label="B Copy 3" startTime="17882" endTime="21665" fillType="color" mediaFillMode="fill" parent="40042596" size="96.000000" font="googlefonts?name=Sniglet&amp;weight=800" wrapWidth="1319" align="center">
+    <transform>
+      <location value="238.643951,257.925171,0.000000" />
+      <pivot value="0.000000,121.000000" />
+      <scale>
+        <kf t="0.337034" v="1.000000,1.000000" e="elastic 0.33585846 1.0 0.0 0.2748741" />
+        <kf t="0.002116" v="0.000000,0.000000" />
+      </scale>
+      <rotation>
+        <kf t="0.337034" v="0.000000" e="elastic 0.33585846 1.0 0.0 0.2748741" />
+        <kf t="0.002116" v="45.000000" />
+      </rotation>
+    </transform>
+    <fillColor value="#ffff6894" />
+    <border direction="outside" id="1">
+      <size value="37.000000" />
+    </border>
+    <content>l</content>
+  </text>
+  <nullobj id="40042596" label="Rỗng 1" startTime="16483" endTime="25565" mediaFillMode="fill" parent="40042587" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.134882" v="0.000000,-115.449219,0.000000" />
+        <kf t="0.333076" v="1.082764,-970.957642,0.000000" e="cubicBezier 0.42 0.0 0.3902846 1.0" />
+      </location>
+      <rotation value="-2.538587" />
+    </transform>
+  </nullobj>
+  <nullobj id="40042587" label="Rỗng 8" startTime="16466" endTime="25565" mediaFillMode="fill" parent="40042597" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.303220" v="0.000000,0.000000,0.000000" />
+        <kf t="0.490054" v="2.165527,-682.219116,0.000000" e="cubicBezier 0.42 0.0 0.39 1.0" />
+        <kf t="0.790417" v="4.719727,-1327.151367,0.000000" e="cubicBezier 0.40361977 0.0 0.4130487 1.0" />
+      </location>
+    </transform>
+  </nullobj>
+  <nullobj id="40042597" label="Rỗng 9" startTime="16483" endTime="25565" mediaFillMode="fill" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.742347" v="720.000000,540.000000,0.000000" />
+        <kf t="0.999229" v="725.175842,-259.835938,0.000000" e="cubicBezier 0.3624758 0.0 0.44126487 0.9939486" />
+      </location>
+      <scale>
+        <kf t="0.430302" v="1.000000,1.000000" />
+        <kf t="0.569808" v="1.180000,1.180000" e="cubicBezier 0.42 0.0 0.58 1.0" />
+      </scale>
+    </transform>
+    <effect id="com.alightcreative.effects.swing2" locallyApplied="true">
+      <property name="freq" type="float" value="1.040000" />
+      <property name="a1" type="float" value="-2.600000" />
+      <property name="a2" type="float" value="2.600000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.pulsate2" locallyApplied="true">
+      <property name="freq" type="float" value="0.900000" />
+      <property name="minsize" type="float" value="0.930000" />
+      <property name="maxsize" type="float" value="1.100000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="type" type="int" value="0" />
+    </effect>
+  </nullobj>
+  <shape id="40042608" label="Hình dạng 4" startTime="16483" endTime="25565" fillType="color" mediaFillMode="fill" parent="40042596">
+    <transform>
+      <location>
+        <kf t="0.000000" v="90.612045,1230.020142,0.000000" />
+        <kf t="1.000000" v="-404.524353,1221.048462,0.000000" />
+      </location>
+      <scale value="0.769444,0.769444" />
+      <rotation value="2.538587" />
+      <opacity value="0.554688" />
+    </transform>
+    <path d="M -360.0 33.536007C -360.0 -50.02709, -292.25876 -117.76835, -208.69566 -117.76835C -190.85927 -117.76835, -173.74373 -114.682045, -157.85394 -109.01435C -124.19491 -155.4168, -69.53468 -185.59444, -7.826087 -185.59444C 62.613556 -185.59444, 123.86918 -146.27312, 155.18802 -88.38329C 173.785 -97.190025, 194.57811 -102.11617, 216.52174 -102.11617C 295.7626 -102.11617, 360.0 -37.878765, 360.0 41.362095C 360.0 119.57042, 297.42575 183.16376, 219.61157 184.80775L -209.32745 185.59444C -292.5715 184.52713, -360.0 116.90596, -360.0 33.536007Z" />
+  </shape>
+  <shape id="40042609" label="Hình dạng 4 Copy" startTime="16483" endTime="25565" fillType="color" mediaFillMode="fill" parent="40042596">
+    <transform>
+      <location>
+        <kf t="0.000000" v="689.297729,1371.784790,0.000000" />
+        <kf t="1.000000" v="-7.210159,1348.679810,0.000000" />
+      </location>
+      <scale value="0.769444,0.769444" />
+      <rotation value="2.538587" />
+      <opacity value="0.554688" />
+    </transform>
+    <path d="M -360.0 33.536007C -360.0 -50.02709, -292.25876 -117.76835, -208.69566 -117.76835C -190.85927 -117.76835, -173.74373 -114.682045, -157.85394 -109.01435C -124.19491 -155.4168, -69.53468 -185.59444, -7.826087 -185.59444C 62.613556 -185.59444, 123.86918 -146.27312, 155.18802 -88.38329C 173.785 -97.190025, 194.57811 -102.11617, 216.52174 -102.11617C 295.7626 -102.11617, 360.0 -37.878765, 360.0 41.362095C 360.0 119.57042, 297.42575 183.16376, 219.61157 184.80775L -209.32745 185.59444C -292.5715 184.52713, -360.0 116.90596, -360.0 33.536007Z" />
+  </shape>
+  <shape id="40042610" label="Hình dạng 4 Copy 2" startTime="16483" endTime="25565" fillType="color" mediaFillMode="fill" parent="40042596">
+    <transform>
+      <location>
+        <kf t="0.000000" v="254.930420,1957.463501,0.000000" />
+        <kf t="1.000000" v="-441.577423,1934.358521,0.000000" />
+      </location>
+      <scale value="0.929167,0.929167" />
+      <rotation value="2.538587" />
+      <opacity value="0.554688" />
+    </transform>
+    <path d="M -360.0 33.536007C -360.0 -50.02709, -292.25876 -117.76835, -208.69566 -117.76835C -190.85927 -117.76835, -173.74373 -114.682045, -157.85394 -109.01435C -124.19491 -155.4168, -69.53468 -185.59444, -7.826087 -185.59444C 62.613556 -185.59444, 123.86918 -146.27312, 155.18802 -88.38329C 173.785 -97.190025, 194.57811 -102.11617, 216.52174 -102.11617C 295.7626 -102.11617, 360.0 -37.878765, 360.0 41.362095C 360.0 119.57042, 297.42575 183.16376, 219.61157 184.80775L -209.32745 185.59444C -292.5715 184.52713, -360.0 116.90596, -360.0 33.536007Z" />
+  </shape>
+  <shape id="40042622" label="Hình dạng 4 Copy 3" startTime="16483" endTime="25565" fillType="color" mediaFillMode="fill" parent="40042596">
+    <transform>
+      <location>
+        <kf t="0.000000" v="554.287659,2563.820068,0.000000" />
+        <kf t="1.000000" v="-13.460462,2544.986328,0.000000" />
+      </location>
+      <scale value="0.757397,0.757397" />
+      <rotation value="2.538587" />
+      <opacity value="0.554688" />
+    </transform>
+    <path d="M -360.0 33.536007C -360.0 -50.02709, -292.25876 -117.76835, -208.69566 -117.76835C -190.85927 -117.76835, -173.74373 -114.682045, -157.85394 -109.01435C -124.19491 -155.4168, -69.53468 -185.59444, -7.826087 -185.59444C 62.613556 -185.59444, 123.86918 -146.27312, 155.18802 -88.38329C 173.785 -97.190025, 194.57811 -102.11617, 216.52174 -102.11617C 295.7626 -102.11617, 360.0 -37.878765, 360.0 41.362095C 360.0 119.57042, 297.42575 183.16376, 219.61157 184.80775L -209.32745 185.59444C -292.5715 184.52713, -360.0 116.90596, -360.0 33.536007Z" />
+  </shape>
+  <shape id="40042612" label="Beat blur + giảm sáng" startTime="18033" endTime="18349" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="719.000000,539.000000,-1000.000000" />
+      <scale value="5.400000,6.750000" />
+    </transform>
+    <fillColor value="#ff7e97ec" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.dblur" locallyApplied="true">
+      <property name="strength" type="float">
+        <kf t="0.028481" v="0.030000" />
+        <kf t="0.765823" v="0.000000" e="cubicBezier 0.15752418 0.15987395 0.0 1.0" />
+      </property>
+      <property name="angle" type="float" value="90.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure" locallyApplied="true">
+      <property name="exposure" type="float">
+        <kf t="0.765823" v="0.000000" e="cubicBezier 0.25 0.25 0.0 1.0" />
+        <kf t="0.028481" v="-0.170000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="40042613" label="Beat blur + giảm sáng" startTime="18733" endTime="19049" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="719.000000,539.000000,-1000.000000" />
+      <scale value="5.400000,6.750000" />
+    </transform>
+    <fillColor value="#ff7e97ec" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.dblur" locallyApplied="true">
+      <property name="strength" type="float">
+        <kf t="0.028481" v="0.030000" />
+        <kf t="0.765823" v="0.000000" e="cubicBezier 0.15752418 0.15987395 0.0 1.0" />
+      </property>
+      <property name="angle" type="float" value="90.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure" locallyApplied="true">
+      <property name="exposure" type="float">
+        <kf t="0.765823" v="0.000000" e="cubicBezier 0.25 0.25 0.0 1.0" />
+        <kf t="0.028481" v="-0.170000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="40042614" label="Beat blur + giảm sáng" startTime="18966" endTime="19282" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="719.000000,539.000000,-1000.000000" />
+      <scale value="5.400000,6.750000" />
+    </transform>
+    <fillColor value="#ff7e97ec" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.dblur" locallyApplied="true">
+      <property name="strength" type="float">
+        <kf t="0.028481" v="0.030000" />
+        <kf t="0.765823" v="0.000000" e="cubicBezier 0.15752418 0.15987395 0.0 1.0" />
+      </property>
+      <property name="angle" type="float" value="90.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure" locallyApplied="true">
+      <property name="exposure" type="float">
+        <kf t="0.765823" v="0.000000" e="cubicBezier 0.25 0.25 0.0 1.0" />
+        <kf t="0.028481" v="-0.170000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="40042615" label="Beat blur + giảm sáng" startTime="20116" endTime="20432" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="719.000000,539.000000,-1000.000000" />
+      <scale value="5.400000,6.750000" />
+    </transform>
+    <fillColor value="#ff7e97ec" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.dblur" locallyApplied="true">
+      <property name="strength" type="float">
+        <kf t="0.028481" v="0.030000" />
+        <kf t="0.765823" v="0.000000" e="cubicBezier 0.15752418 0.15987395 0.0 1.0" />
+      </property>
+      <property name="angle" type="float" value="90.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure" locallyApplied="true">
+      <property name="exposure" type="float">
+        <kf t="0.765823" v="0.000000" e="cubicBezier 0.25 0.25 0.0 1.0" />
+        <kf t="0.028481" v="-0.170000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="40042616" label="Beat blur + giảm sáng" startTime="20600" endTime="20916" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="719.000000,539.000000,-1000.000000" />
+      <scale value="5.400000,6.750000" />
+    </transform>
+    <fillColor value="#ff7e97ec" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.dblur" locallyApplied="true">
+      <property name="strength" type="float">
+        <kf t="0.028481" v="0.030000" />
+        <kf t="0.765823" v="0.000000" e="cubicBezier 0.15752418 0.15987395 0.0 1.0" />
+      </property>
+      <property name="angle" type="float" value="90.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure" locallyApplied="true">
+      <property name="exposure" type="float">
+        <kf t="0.765823" v="0.000000" e="cubicBezier 0.25 0.25 0.0 1.0" />
+        <kf t="0.028481" v="-0.170000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="40042617" label="Beat blur + giảm sáng" startTime="20850" endTime="21166" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="719.000000,539.000000,-1000.000000" />
+      <scale value="5.400000,6.750000" />
+    </transform>
+    <fillColor value="#ff7e97ec" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.dblur" locallyApplied="true">
+      <property name="strength" type="float">
+        <kf t="0.028481" v="0.030000" />
+        <kf t="0.765823" v="0.000000" e="cubicBezier 0.15752418 0.15987395 0.0 1.0" />
+      </property>
+      <property name="angle" type="float" value="90.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure" locallyApplied="true">
+      <property name="exposure" type="float">
+        <kf t="0.765823" v="0.000000" e="cubicBezier 0.25 0.25 0.0 1.0" />
+        <kf t="0.028481" v="-0.170000" />
+      </property>
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <text id="40042624" startTime="23650" endTime="25565" fillType="color" mediaFillMode="fill" parent="40042596" size="64.000000" font="googlefonts?name=Luckiest Guy&amp;weight=400" wrapWidth="1327" align="center">
+    <transform>
+      <location value="-341.053040,2930.023438,0.000000" />
+      <scale>
+        <kf t="0.735248" v="0.847458,0.847458" e="elastic 0.36523718 1.0 0.0 0.20297563" />
+        <kf t="0.004178" v="0.000000,0.000000" />
+      </scale>
+      <rotation value="2.538587" />
+    </transform>
+    <border direction="outside" id="1">
+      <color value="#ffffa97d" />
+      <size value="25.000000" />
+    </border>
+    <shadow direction="outside">
+      <opacity value="0.410000" />
+      <size value="18.000000" />
+      <offset value="3.000000,21.000000" />
+    </shadow>
+    <content>MINH</content>
+  </text>
+  <text id="40042627" label="MINH Copy" startTime="23816" endTime="25565" fillType="color" mediaFillMode="fill" parent="40042596" size="64.000000" font="googlefonts?name=Luckiest Guy&amp;weight=400" wrapWidth="1327" align="center">
+    <transform>
+      <location value="46.285107,2948.175781,0.000000" />
+      <scale>
+        <kf t="0.805031" v="0.847458,0.847458" e="elastic 0.36523718 1.0 0.0 0.20297563" />
+        <kf t="0.004574" v="0.000000,0.000000" />
+      </scale>
+      <rotation value="2.538587" />
+    </transform>
+    <border direction="outside" id="1">
+      <color value="#ffffa97d" />
+      <size value="25.000000" />
+    </border>
+    <shadow direction="outside">
+      <opacity value="0.410000" />
+      <size value="18.000000" />
+      <offset value="3.000000,21.000000" />
+    </shadow>
+    <content>NEN</content>
+  </text>
+  <text id="40042628" label="MINH Copy 2" startTime="23983" endTime="25565" fillType="color" mediaFillMode="fill" parent="40042596" size="64.000000" font="googlefonts?name=Luckiest Guy&amp;weight=400" wrapWidth="1327" align="center">
+    <transform>
+      <location value="-402.322083,3085.691406,0.000000" />
+      <scale>
+        <kf t="0.890013" v="0.847458,0.847458" e="elastic 0.36523718 1.0 0.0 0.20297563" />
+        <kf t="0.005057" v="0.000000,0.000000" />
+      </scale>
+      <rotation value="2.538587" />
+    </transform>
+    <border direction="outside" id="1">
+      <color value="#ffffa97d" />
+      <size value="25.000000" />
+    </border>
+    <shadow direction="outside">
+      <opacity value="0.410000" />
+      <size value="18.000000" />
+      <offset value="3.000000,21.000000" />
+    </shadow>
+    <content>HON</content>
+  </text>
+  <text id="40042629" label="MINH Copy 3" startTime="24150" endTime="25565" fillType="color" mediaFillMode="fill" parent="40042596" size="64.000000" font="googlefonts?name=Luckiest Guy&amp;weight=400" wrapWidth="1327" align="center">
+    <transform>
+      <location value="7.864700,3103.456299,0.000000" />
+      <scale>
+        <kf t="0.995053" v="0.847458,0.847458" e="elastic 0.36523718 1.0 0.0 0.20297563" />
+        <kf t="0.005654" v="0.000000,0.000000" />
+      </scale>
+      <rotation value="2.538587" />
+    </transform>
+    <border direction="outside" id="1">
+      <color value="#ffffa97d" />
+      <size value="25.000000" />
+    </border>
+    <shadow direction="outside">
+      <opacity value="0.410000" />
+      <size value="18.000000" />
+      <offset value="3.000000,21.000000" />
+    </shadow>
+    <content>NHAU</content>
+  </text>
+  <shape id="40042630" label="Hình dạng 4 Copy 4" startTime="16483" endTime="25565" fillType="color" mediaFillMode="fill" parent="40042596">
+    <transform>
+      <location>
+        <kf t="0.000000" v="45.979942,2779.070801,0.000000" />
+        <kf t="1.000000" v="-432.106750,2763.211670,0.000000" />
+      </location>
+      <scale value="0.637785,0.637785" />
+      <rotation value="2.538587" />
+      <opacity value="0.554688" />
+    </transform>
+    <path d="M -360.0 33.536007C -360.0 -50.02709, -292.25876 -117.76835, -208.69566 -117.76835C -190.85927 -117.76835, -173.74373 -114.682045, -157.85394 -109.01435C -124.19491 -155.4168, -69.53468 -185.59444, -7.826087 -185.59444C 62.613556 -185.59444, 123.86918 -146.27312, 155.18802 -88.38329C 173.785 -97.190025, 194.57811 -102.11617, 216.52174 -102.11617C 295.7626 -102.11617, 360.0 -37.878765, 360.0 41.362095C 360.0 119.57042, 297.42575 183.16376, 219.61157 184.80775L -209.32745 185.59444C -292.5715 184.52713, -360.0 116.90596, -360.0 33.536007Z" />
+  </shape>
+  <shape id="40042631" label="Hình dạng 4 Copy 5" startTime="16483" endTime="25565" fillType="color" mediaFillMode="fill" parent="40042596">
+    <transform>
+      <location>
+        <kf t="0.000000" v="626.201050,3284.430908,0.000000" />
+        <kf t="1.000000" v="148.114517,3268.571777,0.000000" />
+      </location>
+      <scale value="0.637785,0.637785" />
+      <rotation value="2.538587" />
+      <opacity value="0.554688" />
+    </transform>
+    <path d="M -360.0 33.536007C -360.0 -50.02709, -292.25876 -117.76835, -208.69566 -117.76835C -190.85927 -117.76835, -173.74373 -114.682045, -157.85394 -109.01435C -124.19491 -155.4168, -69.53468 -185.59444, -7.826087 -185.59444C 62.613556 -185.59444, 123.86918 -146.27312, 155.18802 -88.38329C 173.785 -97.190025, 194.57811 -102.11617, 216.52174 -102.11617C 295.7626 -102.11617, 360.0 -37.878765, 360.0 41.362095C 360.0 119.57042, 297.42575 183.16376, 219.61157 184.80775L -209.32745 185.59444C -292.5715 184.52713, -360.0 116.90596, -360.0 33.536007Z" />
+  </shape>
+  <shape id="40042632" label="Vòng tròn 2" startTime="24966" endTime="32999" fillType="color" mediaFillMode="fill" s=".circle">
+    <transform>
+      <location value="721.000000,540.000000,0.000000" />
+      <scale>
+        <kf t="0.000000" v="0.000000,0.000000" />
+        <kf t="0.067472" v="9.195001,9.195001" e="cubicBezier 0.0 0.0 0.4313318 1.0" />
+      </scale>
+    </transform>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <text id="40042634" startTime="25016" endTime="25815" fillType="color" mediaFillMode="fill" parent="40042632" size="18.000000" font="googlefonts?name=Londrina Sketch&amp;weight=400" wrapWidth="512" align="center">
+    <transform>
+      <location value="-0.108755,0.000000,0.000000" />
+      <scale value="0.556641,0.556641" />
+      <opacity>
+        <kf t="0.011264" v="1.000000" />
+        <kf t="0.991239" v="0.000000" e="cubicBezier 0.0 0.55815226 0.58 1.0" />
+      </opacity>
+    </transform>
+    <fillColor value="#ff000000" />
+    <content>Ayyy</content>
+  </text>
+  <shape id="40042635" label="Chữ nhật tròn 2" startTime="25566" endTime="30015" fillType="color" mediaFillMode="fill" s=".roundrect">
+    <transform>
+      <location>
+        <kf t="0.327938" v="1093.151367,381.601563,0.000000" e="elastic 0.38233352 1.0 0.2939276 0.23073065" />
+        <kf t="0.002023" v="1093.151367,1437.051758,0.000000" />
+        <kf t="0.755001" v="1093.151367,381.601563,0.000000" />
+        <kf t="0.998427" v="1750.852295,390.652344,0.000000" e="cubicBezier 0.41685826 0.0 0.33733258 1.0" />
+      </location>
+      <scale value="0.873512,0.873512" />
+    </transform>
+    <fillColor value="#ff2281ff" />
+    <property name="size" type="vec2" value="336.000000,100.000000" />
+    <property name="cornerRadius" type="float" value="165.000000" />
+  </shape>
+  <shape id="40042637" label="Chữ nhật tròn 2 Copy" startTime="27150" endTime="30015" fillType="color" mediaFillMode="fill" s=".roundrect">
+    <transform>
+      <location>
+        <kf t="0.003141" v="852.008484,1688.072998,0.000000" />
+        <kf t="0.509249" v="852.008484,829.672607,0.000000" e="elastic 0.38233352 1.0 0.2939276 0.23073065" />
+        <kf t="0.619546" v="852.008484,829.672607,0.000000" />
+        <kf t="0.997557" v="852.008484,1200.041504,0.000000" e="cubicBezier 0.42 0.0 0.34 1.0" />
+      </location>
+      <scale value="0.873512,0.873512" />
+    </transform>
+    <fillColor value="#ff2281ff" />
+    <property name="size" type="vec2" value="605.000000,100.000000" />
+    <property name="cornerRadius" type="float" value="165.000000" />
+  </shape>
+  <shape id="40042639" label="Chữ nhật tròn 2 Copy 2" startTime="26316" endTime="30015" fillType="color" mediaFillMode="fill" s=".roundrect">
+    <transform>
+      <location>
+        <kf t="0.002433" v="398.256226,1458.701294,0.000000" />
+        <kf t="0.394430" v="398.256226,600.300903,0.000000" e="elastic 0.38233352 1.0 0.2939276 0.23073065" />
+        <kf t="0.705326" v="398.256226,600.300903,0.000000" />
+        <kf t="0.998108" v="-202.585541,600.300903,0.000000" e="cubicBezier 0.42 0.0 0.34 1.0" />
+      </location>
+      <scale>
+        <kf t="0.394431" v="0.873512,0.873512" />
+        <kf t="0.804271" v="0.873512,0.873512" e="cubicBezier 0.42 0.0 0.58 1.0" />
+        <kf t="0.610706" v="1.024155,1.024155" e="cubicBezier 0.42 0.0 0.58 1.0" />
+      </scale>
+    </transform>
+    <fillColor value="#ff444444" />
+    <property name="size" type="vec2" value="207.000000,100.000000" />
+    <property name="cornerRadius" type="float" value="165.000000" />
+  </shape>
+  <text id="40042636" startTime="25566" endTime="30015" fillType="color" mediaFillMode="fill" parent="40042635" size="32.000000" font="googlefonts?name=Roboto&amp;weight=700" wrapWidth="1386" align="center">
+    <transform>
+      <scale>
+        <kf t="0.327938" v="1.000000,1.000000" e="elastic 0.3139667 1.0 0.08885026 0.30191183" />
+        <kf t="0.002023" v="0.019481,0.019481" />
+      </scale>
+    </transform>
+    <content>Thôi anh đùa</content>
+  </text>
+  <text id="40042638" label="Thôi anh đùa Copy" startTime="27150" endTime="30015" fillType="color" mediaFillMode="fill" parent="40042637" size="32.000000" font="googlefonts?name=Roboto&amp;weight=700" wrapWidth="1386" align="center">
+    <transform>
+      <scale>
+        <kf t="0.509249" v="1.000000,1.000000" e="elastic 0.35558593 1.0 0.13387701 0.30191183" />
+        <kf t="0.003141" v="0.019481,0.019481" />
+      </scale>
+    </transform>
+    <content>Em đừng có vội như thế :(</content>
+  </text>
+  <text id="40042640" label="Thôi anh đùa Copy 2" startTime="26316" endTime="30015" fillType="color" mediaFillMode="fill" parent="40042639" size="32.000000" font="googlefonts?name=Roboto&amp;weight=700" wrapWidth="1386" align="center">
+    <transform>
+      <scale>
+        <kf t="0.394431" v="1.000000,1.000000" e="elastic 0.3139667 1.0 0.08885026 0.30191183" />
+        <kf t="0.002433" v="0.019481,0.019481" />
+      </scale>
+    </transform>
+    <content>block</content>
+  </text>
+  <shape id="40042642" label="Chữ nhật 8" startTime="25566" endTime="30015" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location>
+        <kf t="0.286581" v="742.356445,96.321472,0.000000" e="elastic 0.3579585 1.0 0.12986189 0.19053292" />
+        <kf t="0.002023" v="742.356445,-148.978333,0.000000" />
+        <kf t="0.755001" v="742.356445,96.321472,0.000000" />
+        <kf t="0.998427" v="742.356445,-117.744781,0.000000" e="cubicBezier 0.42 0.0 0.34 1.0" />
+      </location>
+    </transform>
+    <fillColor value="#ffe5e5e5" />
+    <shadow direction="outside">
+      <opacity value="0.260000" />
+      <size value="13.000000" />
+      <offset value="0.000000,3.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="754.000000,123.000000" />
+  </shape>
+  <shape id="40042641" tag="+ruby" label="ảnh" startTime="25566" endTime="30015" fillType="media" fillImage="content://media/external/images/media/1000082496" mediaFillMode="fill" parent="40042639" s=".circle">
+    <transform>
+      <location value="-329.292542,0.000000,0.000000" />
+      <scale value="0.967359,0.967359" />
+    </transform>
+    <fillColor value="#ffc0457e" />
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="40042643" tag="+ruby" label="ảnh " startTime="25566" endTime="30015" fillType="media" fillImage="content://media/external/images/media/1000082496" mediaFillMode="fill" parent="40042642" s=".circle">
+    <transform>
+      <location value="-612.726990,9.433746,0.000000" />
+      <scale value="0.845000,0.845000" />
+    </transform>
+    <fillColor value="#ffc0457e" />
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <text id="40042644" tag="+ruby" label="Tên" startTime="25566" endTime="30015" fillType="color" mediaFillMode="fill" parent="40042642" size="28.000000" font="googlefonts?name=Roboto&amp;weight=700" wrapWidth="858" align="left">
+    <transform>
+      <location value="-70.407227,0.000000,0.000000" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <content>LinhLy</content>
+  </text>
+  <embedScene id="40042647" label="Nhóm 2" startTime="25566" endTime="30015" fillType="intrinsic" outTime="4449" mediaFillMode="fill" parent="40042642">
+    <transform>
+      <location value="580.851563,8.949219,0.000000" />
+      <scale value="0.600339,0.600339" />
+      <opacity value="0.759766" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <scene title="" width="1769" height="1080" exportWidth="1769" exportHeight="1080" precompose="dynamicResolution" bgcolor="#00000000" totalTime="3732" fps="60" modifiedTime="0" amver="1002592" ffver="106" am="com.alightcreative.motion/5.0.271.1002592" amplatform="android" retime="off" retimeAdaptFPS="false">
+      <shape id="40042645" label="Vòng tròn 3" startTime="0" endTime="3732" fillType="color" mediaFillMode="fill" s=".circle">
+        <transform>
+          <location value="884.500000,540.000000,0.000000" />
+        </transform>
+        <fillColor value="#ff000000" />
+        <property name="size" type="vec2" value="100.000000,100.000000" />
+      </shape>
+      <text id="40042646" startTime="0" endTime="3732" fillType="color" mediaFillMode="fill" size="18.000000" font="googlefonts?name=Roboto&amp;weight=700" wrapWidth="512" align="center">
+        <transform>
+          <location value="884.500000,540.000000,0.000000" />
+          <scale value="3.455078,3.455078" />
+        </transform>
+        <content>!</content>
+      </text>
+    </scene>
+  </embedScene>
+  <shape id="40042656" label="Chữ nhật 9" startTime="30016" endTime="33000" fillType="color" speed="0.675268" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="720.000000,540.000000,0.000000" />
+      <scale value="7.200000,7.200000" />
+    </transform>
+    <effect id="com.alightcreative.effects.radialrays" locallyApplied="true">
+      <property name="pointCount" type="float" value="12.000000" />
+      <property name="rayWidth" type="float">
+        <kf t="0.317568" v="0.500000" e="cubicBezier 0.42 0.0 0.58 1.0" />
+        <kf t="0.002162" v="0.000000" />
+      </property>
+      <property name="angle" type="float" value="0.000000" />
+      <property name="color" type="color" value="#ffd6ebff" />
+      <property name="alpha" type="float" value="1.000000" />
+      <property name="blendMode" type="int" value="0" />
+      <property name="innerRadius" type="float" value="0.000000" />
+      <property name="outerRadius" type="float" value="1.000000" />
+      <property name="feather" type="float" value="1.000000" />
+      <property name="radialFeather" type="float" value="1.000000" />
+      <property name="bendStrength" type="float">
+        <kf t="0.000000" v="0.000000" />
+        <kf t="0.250125" v="0.100800" e="cubicBezier 0.42 0.0 0.58 1.0" />
+        <kf t="0.750375" v="0.100800" e="cubicBezier 0.42 0.0 0.58 1.0" />
+        <kf t="0.983992" v="0.000000" e="cubicBezier 0.42 0.0 0.58 1.0" />
+        <kf t="0.500250" v="0.000000" e="cubicBezier 0.42 0.0 0.58 1.0" />
+      </property>
+      <property name="bendFrequency" type="float" value="50.000000" />
+      <property name="bendPhase" type="float">
+        <kf t="0.000000" v="0.000000" />
+        <kf t="0.983992" v="10.080040" />
+      </property>
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="40042648" tag="+ruby" label="ảnh" startTime="29300" endTime="32999" fillType="media" fillImage="content://media/external/images/media/1000082490" mediaFillMode="fill" parent="40042649" s=".rect">
+    <transform>
+      <location>
+        <kf t="0.371722" v="203.299805,0.000000,0.000000" />
+        <kf t="0.741011" v="-334.463989,795.297852,0.000000" e="cubicBezier 0.42 0.0 0.58 1.0" />
+      </location>
+      <scale value="0.807870,0.807870" />
+    </transform>
+    <border direction="outside" id="1">
+      <color value="#ff1a238b" />
+      <size>
+        <kf t="0.002163" v="0.000000" />
+        <kf t="0.533928" v="36.000000" e="cubicBezier 0.0 0.0 0.58 1.0" />
+      </size>
+    </border>
+    <shadow direction="outside">
+      <size value="77.000000" />
+    </shadow>
+    <property name="size" type="vec2" value="338.500000,432.000000" />
+  </shape>
+  <nullobj id="40042649" label="Rỗng 10" startTime="29300" endTime="32999" mediaFillMode="fill" parent="40042650" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.407678" v="0.000000,0.000000,0.000000" />
+        <kf t="0.686942" v="0.965210,-735.081055,0.000000" e="cubicBezier 0.42 0.0 0.58 1.0" />
+      </location>
+      <scale>
+        <kf t="0.583401" v="1.000000,1.000000" e="elastic 0.40561944 1.0 0.0 0.17947102" />
+        <kf t="0.002163" v="0.020000,0.020000" />
+      </scale>
+    </transform>
+  </nullobj>
+  <nullobj id="40042650" label="Rỗng 11" startTime="29300" endTime="32999" mediaFillMode="fill" type="perspective">
+    <transform>
+      <location value="720.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.swing2" locallyApplied="true">
+      <property name="freq" type="float" value="1.040000" />
+      <property name="a1" type="float" value="-2.600000" />
+      <property name="a2" type="float" value="2.600000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.pulsate2" locallyApplied="true">
+      <property name="freq" type="float" value="0.900000" />
+      <property name="minsize" type="float" value="0.930000" />
+      <property name="maxsize" type="float" value="1.100000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="type" type="int" value="0" />
+    </effect>
+  </nullobj>
+  <shape id="40042651" label="Ô thoại 1" startTime="29300" endTime="32999" fillType="color" mediaFillMode="fill" parent="40042649" s=".callout.roundrect">
+    <transform>
+      <location value="-384.230408,-111.970924,0.000000" />
+      <pivot value="338.200195,105.299805" />
+      <scale>
+        <kf t="0.619357" v="1.026172,1.026172" e="elastic 0.29752326 1.0 0.14730331 0.2527387" />
+        <kf t="0.002163" v="-0.003364,-0.003364" />
+      </scale>
+      <rotation>
+        <kf t="0.619357" v="0.000000" e="elastic 0.29752326 1.0 0.14730331 0.2527387" />
+        <kf t="0.002163" v="-65.853668" />
+      </rotation>
+    </transform>
+    <fillColor value="#ff1fd85e" />
+    <border direction="outside" id="1">
+      <color value="#ffffedcd" />
+      <size value="16.000000" />
+    </border>
+    <property name="size" type="vec2" value="268.000000,100.000000" />
+    <property name="tail" type="vec2" value="342.000000,103.000000" />
+    <property name="cornerRadius" type="float" value="52.000000" />
+    <property name="tailWidth" type="float" value="94.000000" />
+  </shape>
+  <shape id="40042653" label="Ô thoại 1 Copy" startTime="31183" endTime="32999" fillType="color" mediaFillMode="fill" s=".callout.roundrect">
+    <transform>
+      <location value="1020.122559,527.303284,0.000000" />
+      <pivot value="-393.234619,91.056656" />
+      <scale>
+        <kf t="1.261564" v="1.000000,1.000000" e="elastic 0.29752326 1.0 0.14730331 0.2527387" />
+        <kf t="0.004405" v="-0.003279,-0.003279" />
+      </scale>
+      <rotation>
+        <kf t="1.261564" v="0.000000" e="elastic 0.29752326 1.0 0.14730331 0.2527387" />
+        <kf t="0.004405" v="-65.853668" />
+      </rotation>
+    </transform>
+    <fillColor value="#ff1fd85e" />
+    <border direction="outside" id="1">
+      <color value="#ffffedcd" />
+      <size value="16.000000" />
+    </border>
+    <property name="size" type="vec2" value="268.000000,100.000000" />
+    <property name="tail" type="vec2" value="-375.000000,103.000000" />
+    <property name="cornerRadius" type="float" value="52.000000" />
+    <property name="tailWidth" type="float" value="94.000000" />
+  </shape>
+  <text id="40042652" startTime="29300" endTime="32999" fillType="color" mediaFillMode="fill" parent="40042651" size="32.000000" font="googlefonts?name=Roboto&amp;weight=700" wrapWidth="512" align="center">
+    <transform>
+      <location value="0.000000,-3.299805,0.000000" />
+    </transform>
+    <content>Anh hư vl</content>
+  </text>
+  <text id="40042654" label="Anh hư vl Copy" startTime="31183" endTime="32999" fillType="color" mediaFillMode="fill" parent="40042653" size="32.000000" font="googlefonts?name=Roboto&amp;weight=700" wrapWidth="512" align="center">
+    <transform>
+      <location value="0.000000,-3.299805,0.000000" />
+    </transform>
+    <content>nma cuti</content>
+  </text>
+  <shape id="40042657" label="Chữ nhật 6" startTime="33000" endTime="40499" fillType="gradient" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,2000.000000" />
+      <scale value="9.600000,5.400000" />
+    </transform>
+    <fillColor value="#ffa79441" />
+    <gradient type="radial" startColor="#fffffad2" endColor="#fffae965" start="0.510737,0.489567" end="1.258256,1.949330" />
+    <property name="size" type="vec2" value="224.000000,291.000000" />
+  </shape>
+  <embedScene id="40042658" label="Nhóm 11" startTime="33000" endTime="40499" fillType="intrinsic" outTime="7499" mediaFillMode="fill" parent="40042664">
+    <transform>
+      <location value="-4.600098,0.000000,0.000000" />
+      <pivot value="-83.926636,-381.450195" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <scene title="" width="1929" height="1080" exportWidth="1929" exportHeight="1080" precompose="dynamicResolution" bgcolor="#00000000" totalTime="7499" fps="60" modifiedTime="0" amver="1002592" ffver="106" am="com.alightcreative.motion/5.0.271.1002592" amplatform="android" retime="off" retimeAdaptFPS="false">
+      <text id="12397809" startTime="0" endTime="7499" fillType="color" mediaFillMode="fill" size="28.000000" font="googlefonts?name=Roboto Condensed&amp;weight=700" wrapWidth="1424" align="center">
+        <transform>
+          <location value="969.200256,146.799805,0.000000" />
+        </transform>
+        <fillColor value="#ff000000" />
+        <content>CHẤT ĐỘC HẠI</content>
+      </text>
+      <text id="12397810" label="NHƯ HOA MÙA XUÂN Copy" startTime="0" endTime="7499" fillType="color" mediaFillMode="fill" size="14.000000" font="googlefonts?name=Lato&amp;weight=300" wrapWidth="1424" align="center">
+        <transform>
+          <location value="969.200256,227.299805,0.000000" />
+        </transform>
+        <fillColor value="#ff000000" />
+        <content>Low G và Quang Hùng MasterD</content>
+      </text>
+      <shape id="12397811" label="Dấu cộng 1" startTime="0" endTime="7499" fillType="color" mediaFillMode="fill" s=".plus">
+        <transform>
+          <location value="1733.699219,146.799805,0.000000" />
+          <scale value="0.340000,0.340000" />
+          <rotation value="45.000000" />
+        </transform>
+        <fillColor value="#ff000000" />
+        <property name="size" type="vec2" value="100.000000,100.000000" />
+        <property name="stemSize" type="float" value="30.000000" />
+      </shape>
+      <text id="12397814" startTime="0" endTime="7499" fillType="color" mediaFillMode="fill" size="40.000000" font="googlefonts?name=Roboto Condensed&amp;weight=700" wrapWidth="512" align="center">
+        <transform>
+          <location value="256.000000,146.799805,0.000000" />
+        </transform>
+        <fillColor value="#ff000000" />
+        <content>&lt;</content>
+      </text>
+    </scene>
+  </embedScene>
+  <text id="40042659" startTime="33000" endTime="40499" fillType="color" mediaFillMode="fill" parent="40042664" size="18.000000" font="googlefonts?name=Montserrat&amp;weight=700" wrapWidth="1607" align="center">
+    <transform>
+      <location value="0.000000,-161.299805,0.000000" />
+      <scale value="1.186683,1.186683" />
+    </transform>
+    <fillColor value="#ffffbf00" />
+    <content>Nếu em chưa muốn làm gì thì</content>
+  </text>
+  <embedScene id="40042660" label="Nhóm 12" startTime="33000" endTime="40499" fillType="intrinsic" outTime="7499" mediaFillMode="fill" parent="40042664">
+    <transform>
+      <location value="0.000000,0.000000,-215.200195" />
+      <pivot value="0.000000,-60.431702" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <scene title="" width="1920" height="1080" exportWidth="1920" exportHeight="1080" precompose="dynamicResolution" bgcolor="#00000000" totalTime="7499" fps="60" modifiedTime="0" amver="1002592" ffver="106" am="com.alightcreative.motion/5.0.271.1002592" amplatform="android" retime="off" retimeAdaptFPS="false">
+      <text id="12397819" label="trong lòng vui như pháo hoa (hey) Copy" startTime="0" endTime="7499" fillType="color" mediaFillMode="fill" size="18.000000" font="googlefonts?name=Montserrat&amp;weight=700" wrapWidth="1607" align="center">
+        <transform>
+          <location value="960.000000,479.568298,0.000000" />
+          <scale value="1.186683,1.186683" />
+        </transform>
+        <fillColor value="#ffffe0aa" />
+        <content>mình có thể ngắm cây, ngắm phường, ngắm phố</content>
+      </text>
+      <text id="12397820" label="trong lòng vui như pháo hoa (hey) Copy 2" startTime="0" endTime="7499" fillType="color" mediaFillMode="fill" size="18.000000" font="googlefonts?name=Montserrat&amp;weight=700" wrapWidth="1607" align="center">
+        <transform>
+          <location value="960.000000,479.568298,0.000000" />
+          <scale value="1.186683,1.186683" />
+        </transform>
+        <fillColor value="#ffffbf00" />
+        <effect id="com.alightcreative.effects.wipe2" locallyApplied="true">
+          <property name="start" type="float" value="0.000000" />
+          <property name="end" type="float">
+            <kf t="0.372183" v="0.814000" />
+            <kf t="0.067743" v="0.125000" />
+            <kf t="0.998933" v="0.946000" />
+          </property>
+          <property name="angle" type="float" value="0.000000" />
+          <property name="feather" type="float" value="7.600000" />
+        </effect>
+        <content>mình có thể ngắm cây, ngắm phường, ngắm phố</content>
+      </text>
+    </scene>
+  </embedScene>
+  <embedScene id="40042661" label="Nhóm 13" startTime="33000" endTime="40499" fillType="intrinsic" outTime="7499" mediaFillMode="fill" parent="40042664">
+    <transform>
+      <location value="0.000000,0.000000,-430.000000" />
+      <pivot value="3.100586,40.436340" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <scene title="" width="1920" height="1080" exportWidth="1920" exportHeight="1080" precompose="dynamicResolution" bgcolor="#00000000" totalTime="7499" fps="60" modifiedTime="0" amver="1002592" ffver="106" am="com.alightcreative.motion/5.0.271.1002592" amplatform="android" retime="off" retimeAdaptFPS="false">
+      <text id="12397823" label="trong lòng vui như pháo hoa (hey) Copy" startTime="0" endTime="7499" fillType="color" mediaFillMode="fill" size="18.000000" font="googlefonts?name=Montserrat&amp;weight=700" wrapWidth="1607" align="center">
+        <transform>
+          <location value="963.100586,580.436340,0.000000" />
+          <scale value="1.186683,1.186683" />
+        </transform>
+        <fillColor value="#ffffe0aa" />
+        <content>À em chỉ muốn nói chuyện á?</content>
+      </text>
+      <text id="12397824" label="trong lòng vui như pháo hoa (hey) Copy 2" startTime="0" endTime="7499" fillType="color" mediaFillMode="fill" size="18.000000" font="googlefonts?name=Montserrat&amp;weight=700" wrapWidth="1607" align="center">
+        <transform>
+          <location value="963.100586,580.436340,0.000000" />
+          <scale value="1.186683,1.186683" />
+        </transform>
+        <fillColor value="#ffffbf00" />
+        <effect id="com.alightcreative.effects.wipe2" locallyApplied="true">
+          <property name="start" type="float" value="0.000000" />
+          <property name="end" type="float">
+            <kf t="0.674356" v="0.814000" />
+            <kf t="0.369916" v="0.125000" />
+          </property>
+          <property name="angle" type="float" value="0.000000" />
+          <property name="feather" type="float" value="7.600000" />
+        </effect>
+        <content>À em chỉ muốn nói chuyện á?</content>
+      </text>
+    </scene>
+  </embedScene>
+  <embedScene id="40042662" label="Nhóm 14" startTime="33000" endTime="40499" fillType="intrinsic" outTime="7499" mediaFillMode="fill" parent="40042664">
+    <transform>
+      <location value="0.000000,100.868042,-645.000000" />
+      <pivot value="3.100586,40.436340" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <scene title="" width="1920" height="1080" exportWidth="1920" exportHeight="1080" precompose="dynamicResolution" bgcolor="#00000000" totalTime="7499" fps="60" modifiedTime="0" amver="1002592" ffver="106" am="com.alightcreative.motion/5.0.271.1002592" amplatform="android" retime="off" retimeAdaptFPS="false">
+      <text id="12397826" label="trong lòng vui như pháo hoa (hey) Copy" startTime="0" endTime="7499" fillType="color" mediaFillMode="fill" size="18.000000" font="googlefonts?name=Montserrat&amp;weight=700" wrapWidth="1607" align="center">
+        <transform>
+          <location value="963.100586,580.436340,0.000000" />
+          <scale value="1.186683,1.186683" />
+        </transform>
+        <fillColor value="#ffffe0aa" />
+        <content>Ừ công nhận, nắm tay hơi nặng đô </content>
+      </text>
+      <text id="12397827" label="trong lòng vui như pháo hoa (hey) Copy 2" startTime="0" endTime="7499" fillType="color" mediaFillMode="fill" size="18.000000" font="googlefonts?name=Montserrat&amp;weight=700" wrapWidth="1607" align="center">
+        <transform>
+          <location value="963.100586,580.436340,0.000000" />
+          <scale value="1.186683,1.186683" />
+        </transform>
+        <fillColor value="#ffffbf00" />
+        <effect id="com.alightcreative.effects.wipe2" locallyApplied="true">
+          <property name="start" type="float" value="0.000000" />
+          <property name="end" type="float">
+            <kf t="0.830110" v="0.814000" />
+            <kf t="0.543273" v="0.125000" />
+          </property>
+          <property name="angle" type="float" value="0.000000" />
+          <property name="feather" type="float" value="7.600000" />
+        </effect>
+        <content>Ừ công nhận, nắm tay hơi nặng đô </content>
+      </text>
+    </scene>
+  </embedScene>
+  <text id="40042663" label="trong lòng vui như pháo hoa (hey) Copy" startTime="33000" endTime="40499" fillType="color" mediaFillMode="fill" parent="40042664" size="18.000000" font="googlefonts?name=Montserrat&amp;weight=700" wrapWidth="1607" align="center">
+    <transform>
+      <location value="3.100586,210.634247,-860.000000" />
+      <scale value="1.186683,1.186683" />
+    </transform>
+    <fillColor value="#ffffd998" />
+    <content>...........</content>
+  </text>
+  <nullobj id="40042664" label="Rỗng 10" startTime="33000" endTime="40499" speed="0.850000" mediaFillMode="fill" parent="40042665" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.001067" v="5.542908,324.276672,-1211.799805" />
+        <kf t="0.267902" v="297.642578,137.023621,-616.898438" e="cubicBezier 0.27676153 0.0 0.22628722 0.9989931" />
+        <kf t="0.346179" v="297.642578,137.023621,-616.898438" />
+        <kf t="0.649553" v="825.687500,28.860168,-379.598633" e="cubicBezier 0.42 0.0 0.58 1.0" />
+        <kf t="0.696626" v="825.687500,28.860168,-379.598633" />
+        <kf t="0.995999" v="993.537109,-91.525513,-161.797852" e="cubicBezier 0.42 0.0 0.58 1.0" />
+      </location>
+    </transform>
+  </nullobj>
+  <nullobj id="40042665" label="Rỗng 11" startTime="33000" endTime="40499" speed="0.850000" mediaFillMode="fill" parent="40042666" type="perspective">
+    <transform>
+      <location>
+        <kf t="0.145086" v="0.000000,0.000000,0.000000" />
+        <kf t="0.476864" v="-663.799805,0.000000,0.000000" e="cubicBezier 0.42 0.0 0.45104724 1.0" />
+        <kf t="0.524203" v="-663.799805,0.000000,0.000000" />
+        <kf t="0.832644" v="-996.450195,0.000000,0.000000" e="cubicBezier 0.42 0.0 0.58 1.0" />
+      </location>
+    </transform>
+  </nullobj>
+  <nullobj id="40042666" label="Rỗng 12" startTime="33000" endTime="40499" mediaFillMode="fill" type="perspective">
+    <transform>
+      <location value="692.330200,580.595337,0.000000" />
+      <scale value="0.556695,0.556695" />
+    </transform>
+    <effect id="com.alightcreative.effects.swing2" locallyApplied="true">
+      <property name="freq" type="float" value="0.800000" />
+      <property name="a1" type="float" value="-3.000000" />
+      <property name="a2" type="float" value="3.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="type" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.pulsate2" locallyApplied="true">
+      <property name="freq" type="float" value="0.500000" />
+      <property name="minsize" type="float" value="1.000000" />
+      <property name="maxsize" type="float" value="1.100000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="type" type="int" value="0" />
+    </effect>
+  </nullobj>
+  <shape id="40042667" label="Chữ nhật 10" startTime="32550" endTime="33865" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="720.000000,540.000000,-1193.196289" />
+      <opacity>
+        <kf t="0.335361" v="1.000000" />
+        <kf t="0.994677" v="0.000000" />
+        <kf t="0.006084" v="0.000000" />
+      </opacity>
+    </transform>
+    <fillColor value="#ff000000" />
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="40042668" tag="+ruby" label="Sound" startTime="0" endTime="40565" fillType="media" fillVideo="content://media/external/video/media/1000086523" outTime="40550" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="720.000000,540.000000,0.000000" />
+      <opacity value="0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="720.000000,540.000000" />
+  </shape>
+</scene>
